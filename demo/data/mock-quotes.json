@@ -1,0 +1,3159 @@
+{
+  "asOf": "2026-08-13",
+  "marketSnapshotSource": "https://www.stockchallenge.co.uk/ftse.php",
+  "marketCapUnit": "GBP billions",
+  "priceUnit": "GBX",
+  "performanceMode": "mock",
+  "quotes": [
+    {
+      "symbol": "3IN",
+      "marketCap": 3.5418,
+      "price": 384.0,
+      "change1d": 1.73,
+      "change1w": -3.96,
+      "change1m": 9.2,
+      "changeYtd": 10.23
+    },
+    {
+      "symbol": "AAF",
+      "marketCap": 11.8784,
+      "price": 326.2,
+      "change1d": -2.06,
+      "change1w": 4.89,
+      "change1m": 0.72,
+      "changeYtd": 18.36
+    },
+    {
+      "symbol": "AAL",
+      "marketCap": 41.9488,
+      "price": 3915.0,
+      "change1d": 1.17,
+      "change1w": -1.46,
+      "change1m": -8.23,
+      "changeYtd": -9.3
+    },
+    {
+      "symbol": "AAS",
+      "marketCap": 0.6228,
+      "price": 451.0,
+      "change1d": 0.7,
+      "change1w": 5.34,
+      "change1m": -2.59,
+      "changeYtd": -1.21
+    },
+    {
+      "symbol": "ABDN",
+      "marketCap": 4.3548,
+      "price": 243.4,
+      "change1d": -1.83,
+      "change1w": -2.2,
+      "change1m": -4.86,
+      "changeYtd": -21.46
+    },
+    {
+      "symbol": "ABF",
+      "marketCap": 14.4514,
+      "price": 2065.0,
+      "change1d": 0.96,
+      "change1w": 5.14,
+      "change1m": 9.54,
+      "changeYtd": 8.68
+    },
+    {
+      "symbol": "ADM",
+      "marketCap": 11.6392,
+      "price": 3894.0,
+      "change1d": -0.62,
+      "change1w": -5.03,
+      "change1m": 5.86,
+      "changeYtd": 4.98
+    },
+    {
+      "symbol": "AEP",
+      "marketCap": 0.6905,
+      "price": 180.0,
+      "change1d": -2.06,
+      "change1w": -3.03,
+      "change1m": -7.68,
+      "changeYtd": -9.68
+    },
+    {
+      "symbol": "AGT",
+      "marketCap": 1.0509,
+      "price": 264.0,
+      "change1d": -2.03,
+      "change1w": 5.26,
+      "change1m": 6.32,
+      "changeYtd": -20.29
+    },
+    {
+      "symbol": "AIE",
+      "marketCap": 0.436,
+      "price": 257.5,
+      "change1d": 2.35,
+      "change1w": -0.81,
+      "change1m": -4.09,
+      "changeYtd": -8.46
+    },
+    {
+      "symbol": "AJB",
+      "marketCap": 2.418,
+      "price": 612.0,
+      "change1d": -1.86,
+      "change1w": -0.51,
+      "change1m": -10.9,
+      "changeYtd": 21.53
+    },
+    {
+      "symbol": "ALFA",
+      "marketCap": 0.4834,
+      "price": 162.6,
+      "change1d": -2.32,
+      "change1w": -2.07,
+      "change1m": 7.78,
+      "changeYtd": 2.3
+    },
+    {
+      "symbol": "ALW",
+      "marketCap": 5.198,
+      "price": 1390.0,
+      "change1d": -1.53,
+      "change1w": -5.24,
+      "change1m": 6.29,
+      "changeYtd": -10.68
+    },
+    {
+      "symbol": "AML",
+      "marketCap": 0.3563,
+      "price": 35.18,
+      "change1d": -1.22,
+      "change1w": 1.65,
+      "change1m": -0.99,
+      "changeYtd": 8.28
+    },
+    {
+      "symbol": "ANTO",
+      "marketCap": 37.0288,
+      "price": 3756.0,
+      "change1d": -1.15,
+      "change1w": -1.28,
+      "change1m": 10.63,
+      "changeYtd": -6.93
+    },
+    {
+      "symbol": "AO.",
+      "marketCap": 0.5378,
+      "price": 96.8,
+      "change1d": 0.69,
+      "change1w": -5.05,
+      "change1m": -3.07,
+      "changeYtd": 2.16
+    },
+    {
+      "symbol": "APN",
+      "marketCap": 0.835,
+      "price": 334.0,
+      "change1d": -0.84,
+      "change1w": -3.02,
+      "change1m": -1.76,
+      "changeYtd": -7.31
+    },
+    {
+      "symbol": "ASHM",
+      "marketCap": 1.4654,
+      "price": 225.4,
+      "change1d": -1.06,
+      "change1w": 3.07,
+      "change1m": -0.86,
+      "changeYtd": -5.37
+    },
+    {
+      "symbol": "ASL",
+      "marketCap": 1.3485,
+      "price": 1738.0,
+      "change1d": -0.86,
+      "change1w": -4.71,
+      "change1m": 3.72,
+      "changeYtd": -18.02
+    },
+    {
+      "symbol": "ATG",
+      "marketCap": 0.5355,
+      "price": 442.2,
+      "change1d": -2.15,
+      "change1w": -0.58,
+      "change1m": -3.73,
+      "changeYtd": 4.45
+    },
+    {
+      "symbol": "ATR",
+      "marketCap": 0.6596,
+      "price": 710.0,
+      "change1d": -0.42,
+      "change1w": -1.79,
+      "change1m": 10.5,
+      "changeYtd": 8.01
+    },
+    {
+      "symbol": "ATT",
+      "marketCap": 2.5127,
+      "price": 738.0,
+      "change1d": -0.62,
+      "change1w": 1.66,
+      "change1m": -8.22,
+      "changeYtd": -7.54
+    },
+    {
+      "symbol": "ATYM",
+      "marketCap": 1.4169,
+      "price": 921.5,
+      "change1d": 0.61,
+      "change1w": -0.48,
+      "change1m": 6.92,
+      "changeYtd": -9.72
+    },
+    {
+      "symbol": "AUTO",
+      "marketCap": 4.1811,
+      "price": 525.8,
+      "change1d": -1.46,
+      "change1w": 1.65,
+      "change1m": 9.38,
+      "changeYtd": 9.45
+    },
+    {
+      "symbol": "AV.",
+      "marketCap": 21.3491,
+      "price": 713.6,
+      "change1d": 1.95,
+      "change1w": 0.24,
+      "change1m": -3.73,
+      "changeYtd": -7.09
+    },
+    {
+      "symbol": "AVON",
+      "marketCap": 0.5643,
+      "price": 1916.0,
+      "change1d": 1.54,
+      "change1w": 4.03,
+      "change1m": 9.66,
+      "changeYtd": 3.35
+    },
+    {
+      "symbol": "AZN",
+      "marketCap": 181.5749,
+      "price": 11708.0,
+      "change1d": -0.01,
+      "change1w": 1.12,
+      "change1m": 2.62,
+      "changeYtd": 17.8
+    },
+    {
+      "symbol": "BA.",
+      "marketCap": 65.5909,
+      "price": 2236.0,
+      "change1d": -0.09,
+      "change1w": -0.8,
+      "change1m": 2.06,
+      "changeYtd": 20.56
+    },
+    {
+      "symbol": "BAB",
+      "marketCap": 5.7805,
+      "price": 1181.5,
+      "change1d": -0.36,
+      "change1w": 1.33,
+      "change1m": 8.72,
+      "changeYtd": -22.02
+    },
+    {
+      "symbol": "BAG",
+      "marketCap": 0.6647,
+      "price": 599.0,
+      "change1d": -1.72,
+      "change1w": -4.29,
+      "change1m": -0.72,
+      "changeYtd": 6.37
+    },
+    {
+      "symbol": "BARC",
+      "marketCap": 70.1034,
+      "price": 519.0,
+      "change1d": 1.26,
+      "change1w": 4.47,
+      "change1m": -2.65,
+      "changeYtd": 22.6
+    },
+    {
+      "symbol": "BATS",
+      "marketCap": 92.1139,
+      "price": 4264.0,
+      "change1d": -2.25,
+      "change1w": -3.11,
+      "change1m": 7.27,
+      "changeYtd": -10.68
+    },
+    {
+      "symbol": "BBOX",
+      "marketCap": 4.3622,
+      "price": 160.7,
+      "change1d": -1.91,
+      "change1w": 2.56,
+      "change1m": -1.5,
+      "changeYtd": 2.89
+    },
+    {
+      "symbol": "BBY",
+      "marketCap": 4.3833,
+      "price": 922.5,
+      "change1d": -2.09,
+      "change1w": -2.66,
+      "change1m": 9.0,
+      "changeYtd": -19.43
+    },
+    {
+      "symbol": "BCG",
+      "marketCap": 0.8936,
+      "price": 207.2,
+      "change1d": 0.71,
+      "change1w": 5.38,
+      "change1m": 10.55,
+      "changeYtd": 12.35
+    },
+    {
+      "symbol": "BEZ",
+      "marketCap": 7.6391,
+      "price": 1292.5,
+      "change1d": -2.2,
+      "change1w": 4.58,
+      "change1m": -2.84,
+      "changeYtd": 10.4
+    },
+    {
+      "symbol": "BGEO",
+      "marketCap": 5.7702,
+      "price": 13380.0,
+      "change1d": 1.93,
+      "change1w": -4.06,
+      "change1m": -6.82,
+      "changeYtd": -23.84
+    },
+    {
+      "symbol": "BGFD",
+      "marketCap": 0.7236,
+      "price": 1072.0,
+      "change1d": -2.37,
+      "change1w": 2.85,
+      "change1m": -5.55,
+      "changeYtd": -13.53
+    },
+    {
+      "symbol": "BHMG",
+      "marketCap": 1.2843,
+      "price": 425.5,
+      "change1d": -1.07,
+      "change1w": -3.16,
+      "change1m": -7.06,
+      "changeYtd": -17.02
+    },
+    {
+      "symbol": "BKG",
+      "marketCap": 3.3679,
+      "price": 3646.0,
+      "change1d": 2.25,
+      "change1w": -0.36,
+      "change1m": -6.11,
+      "changeYtd": 2.27
+    },
+    {
+      "symbol": "BLND",
+      "marketCap": 4.4787,
+      "price": 437.2,
+      "change1d": -1.7,
+      "change1w": -3.95,
+      "change1m": -10.97,
+      "changeYtd": -18.1
+    },
+    {
+      "symbol": "BME",
+      "marketCap": 2.3679,
+      "price": 235.6,
+      "change1d": -0.29,
+      "change1w": -1.49,
+      "change1m": -2.63,
+      "changeYtd": 6.52
+    },
+    {
+      "symbol": "BMY",
+      "marketCap": 0.5266,
+      "price": 647.0,
+      "change1d": -0.96,
+      "change1w": -4.16,
+      "change1m": -9.64,
+      "changeYtd": 7.52
+    },
+    {
+      "symbol": "BNKR",
+      "marketCap": 1.4287,
+      "price": 154.4,
+      "change1d": -2.02,
+      "change1w": -0.96,
+      "change1m": -9.75,
+      "changeYtd": 8.81
+    },
+    {
+      "symbol": "BNZL",
+      "marketCap": 8.8167,
+      "price": 2746.0,
+      "change1d": 0.49,
+      "change1w": -0.33,
+      "change1m": -3.69,
+      "changeYtd": 16.38
+    },
+    {
+      "symbol": "BOWL",
+      "marketCap": 0.4694,
+      "price": 280.0,
+      "change1d": 1.69,
+      "change1w": 3.19,
+      "change1m": 4.0,
+      "changeYtd": 19.71
+    },
+    {
+      "symbol": "BOY",
+      "marketCap": 1.5506,
+      "price": 910.0,
+      "change1d": 0.27,
+      "change1w": -2.84,
+      "change1m": -0.62,
+      "changeYtd": 13.99
+    },
+    {
+      "symbol": "BP.",
+      "marketCap": 80.7128,
+      "price": 522.4,
+      "change1d": -1.46,
+      "change1w": 1.85,
+      "change1m": -3.79,
+      "changeYtd": -8.37
+    },
+    {
+      "symbol": "BPCP",
+      "marketCap": 0.8113,
+      "price": 72.3,
+      "change1d": 0.38,
+      "change1w": -3.47,
+      "change1m": 7.34,
+      "changeYtd": -1.48
+    },
+    {
+      "symbol": "BPT",
+      "marketCap": 2.9536,
+      "price": 337.4,
+      "change1d": 1.15,
+      "change1w": -1.11,
+      "change1m": 10.59,
+      "changeYtd": 23.79
+    },
+    {
+      "symbol": "BRBY",
+      "marketCap": 3.9441,
+      "price": 1098.0,
+      "change1d": 1.34,
+      "change1w": -0.27,
+      "change1m": 10.22,
+      "changeYtd": -0.19
+    },
+    {
+      "symbol": "BREE",
+      "marketCap": 1.2321,
+      "price": 355.4,
+      "change1d": 1.79,
+      "change1w": 2.85,
+      "change1m": -7.46,
+      "changeYtd": -8.15
+    },
+    {
+      "symbol": "BRGE",
+      "marketCap": 0.5611,
+      "price": 618.0,
+      "change1d": -0.37,
+      "change1w": -4.37,
+      "change1m": -10.29,
+      "changeYtd": 4.92
+    },
+    {
+      "symbol": "BRSC",
+      "marketCap": 0.1691,
+      "price": 280.5,
+      "change1d": 0.04,
+      "change1w": -2.47,
+      "change1m": 3.99,
+      "changeYtd": 13.51
+    },
+    {
+      "symbol": "BRWM",
+      "marketCap": 1.7967,
+      "price": 964.0,
+      "change1d": -0.73,
+      "change1w": -2.65,
+      "change1m": 10.83,
+      "changeYtd": 14.36
+    },
+    {
+      "symbol": "BT.A",
+      "marketCap": 19.1942,
+      "price": 197.05,
+      "change1d": -0.92,
+      "change1w": -2.85,
+      "change1m": -10.85,
+      "changeYtd": -3.86
+    },
+    {
+      "symbol": "BTRW",
+      "marketCap": 4.6021,
+      "price": 328.6,
+      "change1d": -1.65,
+      "change1w": -1.48,
+      "change1m": -4.46,
+      "changeYtd": 21.69
+    },
+    {
+      "symbol": "BUT",
+      "marketCap": 0.6757,
+      "price": 1570.0,
+      "change1d": 1.01,
+      "change1w": -3.93,
+      "change1m": 9.96,
+      "changeYtd": 7.5
+    },
+    {
+      "symbol": "BWY",
+      "marketCap": 2.4941,
+      "price": 2200.0,
+      "change1d": -1.18,
+      "change1w": 5.3,
+      "change1m": 6.26,
+      "changeYtd": -17.21
+    },
+    {
+      "symbol": "BYG",
+      "marketCap": 1.7709,
+      "price": 903.5,
+      "change1d": 0.14,
+      "change1w": -2.23,
+      "change1m": -2.49,
+      "changeYtd": 7.3
+    },
+    {
+      "symbol": "BYIT",
+      "marketCap": 0.9603,
+      "price": 409.8,
+      "change1d": -1.52,
+      "change1w": -0.6,
+      "change1m": 2.58,
+      "changeYtd": -12.75
+    },
+    {
+      "symbol": "CBG",
+      "marketCap": 0.633,
+      "price": 420.0,
+      "change1d": -2.16,
+      "change1w": 4.2,
+      "change1m": 9.47,
+      "changeYtd": 23.63
+    },
+    {
+      "symbol": "CCC",
+      "marketCap": 5.1824,
+      "price": 4938.0,
+      "change1d": 1.08,
+      "change1w": 2.29,
+      "change1m": -7.26,
+      "changeYtd": 2.05
+    },
+    {
+      "symbol": "CCEP",
+      "marketCap": 35.2008,
+      "price": 7950.0,
+      "change1d": 0.89,
+      "change1w": 5.1,
+      "change1m": -8.5,
+      "changeYtd": 0.14
+    },
+    {
+      "symbol": "CCH",
+      "marketCap": 16.9768,
+      "price": 4658.0,
+      "change1d": 0.92,
+      "change1w": -3.81,
+      "change1m": -5.84,
+      "changeYtd": 2.06
+    },
+    {
+      "symbol": "CGT",
+      "marketCap": 0.8213,
+      "price": 525.0,
+      "change1d": -2.38,
+      "change1w": 4.95,
+      "change1m": -10.01,
+      "changeYtd": -0.07
+    },
+    {
+      "symbol": "CHG",
+      "marketCap": 1.6774,
+      "price": 620.0,
+      "change1d": -1.57,
+      "change1w": 2.06,
+      "change1m": 1.36,
+      "changeYtd": 1.82
+    },
+    {
+      "symbol": "CKN",
+      "marketCap": 1.5391,
+      "price": 5010.0,
+      "change1d": 0.98,
+      "change1w": 2.05,
+      "change1m": 5.67,
+      "changeYtd": 6.44
+    },
+    {
+      "symbol": "CLDN",
+      "marketCap": 2.0344,
+      "price": 397.0,
+      "change1d": 0.81,
+      "change1w": -0.14,
+      "change1m": 8.55,
+      "changeYtd": -1.62
+    },
+    {
+      "symbol": "CMCX",
+      "marketCap": 1.8852,
+      "price": 699.0,
+      "change1d": 0.67,
+      "change1w": -2.41,
+      "change1m": -0.61,
+      "changeYtd": -21.89
+    },
+    {
+      "symbol": "CNA",
+      "marketCap": 7.0154,
+      "price": 154.9,
+      "change1d": 1.95,
+      "change1w": 1.06,
+      "change1m": 10.29,
+      "changeYtd": 10.93
+    },
+    {
+      "symbol": "COA",
+      "marketCap": 1.6119,
+      "price": 84.2,
+      "change1d": -1.62,
+      "change1w": 1.8,
+      "change1m": 6.36,
+      "changeYtd": -12.51
+    },
+    {
+      "symbol": "CORD",
+      "marketCap": 0.938,
+      "price": 122.5,
+      "change1d": -1.0,
+      "change1w": -4.87,
+      "change1m": -4.25,
+      "changeYtd": 12.6
+    },
+    {
+      "symbol": "COST",
+      "marketCap": 0.6117,
+      "price": 229.5,
+      "change1d": 2.01,
+      "change1w": -0.45,
+      "change1m": -0.44,
+      "changeYtd": -5.77
+    },
+    {
+      "symbol": "CPG",
+      "marketCap": 40.9678,
+      "price": 3252.0,
+      "change1d": 1.62,
+      "change1w": -3.45,
+      "change1m": 5.22,
+      "changeYtd": -13.14
+    },
+    {
+      "symbol": "CRDA",
+      "marketCap": 4.5778,
+      "price": 3285.0,
+      "change1d": -0.25,
+      "change1w": 5.17,
+      "change1m": 7.43,
+      "changeYtd": 16.96
+    },
+    {
+      "symbol": "CSN",
+      "marketCap": 0.7681,
+      "price": 333.0,
+      "change1d": -1.46,
+      "change1w": 2.39,
+      "change1m": -10.6,
+      "changeYtd": 6.54
+    },
+    {
+      "symbol": "CTEC",
+      "marketCap": 4.5304,
+      "price": 231.8,
+      "change1d": 1.43,
+      "change1w": 0.61,
+      "change1m": -10.72,
+      "changeYtd": -13.31
+    },
+    {
+      "symbol": "CTY",
+      "marketCap": 3.0372,
+      "price": 590.0,
+      "change1d": -0.3,
+      "change1w": -4.27,
+      "change1m": 5.81,
+      "changeYtd": -23.77
+    },
+    {
+      "symbol": "CURY",
+      "marketCap": 1.662,
+      "price": 160.1,
+      "change1d": -2.31,
+      "change1w": -0.52,
+      "change1m": 1.13,
+      "changeYtd": 12.63
+    },
+    {
+      "symbol": "CVSG",
+      "marketCap": 0.9034,
+      "price": 1299.0,
+      "change1d": 0.65,
+      "change1w": 0.91,
+      "change1m": 4.18,
+      "changeYtd": -1.53
+    },
+    {
+      "symbol": "CWK",
+      "marketCap": 2.7995,
+      "price": 5230.0,
+      "change1d": 1.2,
+      "change1w": 3.47,
+      "change1m": 9.31,
+      "changeYtd": -22.43
+    },
+    {
+      "symbol": "CWR",
+      "marketCap": 1.0087,
+      "price": 471.8,
+      "change1d": -2.15,
+      "change1w": -2.95,
+      "change1m": -2.64,
+      "changeYtd": 1.86
+    },
+    {
+      "symbol": "DATA",
+      "marketCap": 0.5729,
+      "price": 82.5,
+      "change1d": 1.95,
+      "change1w": -2.25,
+      "change1m": -7.86,
+      "changeYtd": 13.63
+    },
+    {
+      "symbol": "DCC",
+      "marketCap": 5.4415,
+      "price": 6370.0,
+      "change1d": -1.61,
+      "change1w": 1.47,
+      "change1m": 10.45,
+      "changeYtd": -10.72
+    },
+    {
+      "symbol": "DGE",
+      "marketCap": 38.9575,
+      "price": 1752.0,
+      "change1d": -0.78,
+      "change1w": 4.8,
+      "change1m": -2.25,
+      "changeYtd": -18.81
+    },
+    {
+      "symbol": "DLN",
+      "marketCap": 2.3332,
+      "price": 2088.0,
+      "change1d": -1.11,
+      "change1w": 0.91,
+      "change1m": 4.22,
+      "changeYtd": 23.22
+    },
+    {
+      "symbol": "DNLM",
+      "marketCap": 1.7698,
+      "price": 878.5,
+      "change1d": -0.65,
+      "change1w": 2.08,
+      "change1m": -10.22,
+      "changeYtd": 10.34
+    },
+    {
+      "symbol": "DOCS",
+      "marketCap": 0.847,
+      "price": 88.5,
+      "change1d": -1.24,
+      "change1w": -5.24,
+      "change1m": -4.55,
+      "changeYtd": 4.89
+    },
+    {
+      "symbol": "DOM",
+      "marketCap": 0.7509,
+      "price": 197.0,
+      "change1d": 0.56,
+      "change1w": 2.8,
+      "change1m": 3.23,
+      "changeYtd": -11.99
+    },
+    {
+      "symbol": "DPLM",
+      "marketCap": 9.8761,
+      "price": 7365.0,
+      "change1d": -1.29,
+      "change1w": 3.61,
+      "change1m": 10.07,
+      "changeYtd": 16.93
+    },
+    {
+      "symbol": "DRX",
+      "marketCap": 2.4378,
+      "price": 725.0,
+      "change1d": 1.29,
+      "change1w": -1.65,
+      "change1m": -7.6,
+      "changeYtd": 9.84
+    },
+    {
+      "symbol": "DSCV",
+      "marketCap": 0.7896,
+      "price": 813.0,
+      "change1d": 0.94,
+      "change1w": -0.13,
+      "change1m": -9.72,
+      "changeYtd": -2.93
+    },
+    {
+      "symbol": "EDIN",
+      "marketCap": 1.0811,
+      "price": 848.0,
+      "change1d": 1.7,
+      "change1w": -2.01,
+      "change1m": -8.71,
+      "changeYtd": -17.73
+    },
+    {
+      "symbol": "EDV",
+      "marketCap": 9.9059,
+      "price": 4109.0,
+      "change1d": 1.78,
+      "change1w": 0.29,
+      "change1m": 3.56,
+      "changeYtd": -19.55
+    },
+    {
+      "symbol": "ELM",
+      "marketCap": 1.0383,
+      "price": 181.6,
+      "change1d": 1.56,
+      "change1w": -2.81,
+      "change1m": -3.69,
+      "changeYtd": -7.81
+    },
+    {
+      "symbol": "EMG",
+      "marketCap": 3.4972,
+      "price": 313.4,
+      "change1d": 1.11,
+      "change1w": 5.24,
+      "change1m": 10.39,
+      "changeYtd": -10.16
+    },
+    {
+      "symbol": "ENOG",
+      "marketCap": 1.3586,
+      "price": 735.5,
+      "change1d": -0.12,
+      "change1w": 1.14,
+      "change1m": 4.11,
+      "changeYtd": 7.77
+    },
+    {
+      "symbol": "ENT",
+      "marketCap": 3.4913,
+      "price": 545.6,
+      "change1d": 0.51,
+      "change1w": -3.11,
+      "change1m": -10.79,
+      "changeYtd": -8.82
+    },
+    {
+      "symbol": "ESCT",
+      "marketCap": 0.8202,
+      "price": 239.0,
+      "change1d": 2.05,
+      "change1w": -0.78,
+      "change1m": -10.93,
+      "changeYtd": 23.13
+    },
+    {
+      "symbol": "EWG",
+      "marketCap": 0.7231,
+      "price": 104.4,
+      "change1d": 0.13,
+      "change1w": 5.38,
+      "change1m": -9.41,
+      "changeYtd": -22.14
+    },
+    {
+      "symbol": "EWI",
+      "marketCap": 0.9079,
+      "price": 262.5,
+      "change1d": 2.23,
+      "change1w": 1.83,
+      "change1m": 9.83,
+      "changeYtd": -23.28
+    },
+    {
+      "symbol": "EXPN",
+      "marketCap": 25.0589,
+      "price": 2811.0,
+      "change1d": 1.43,
+      "change1w": -3.81,
+      "change1m": 3.96,
+      "changeYtd": -22.83
+    },
+    {
+      "symbol": "EZJ",
+      "marketCap": 5.0309,
+      "price": 673.0,
+      "change1d": -2.11,
+      "change1w": -3.5,
+      "change1m": -3.98,
+      "changeYtd": 9.58
+    },
+    {
+      "symbol": "FAN",
+      "marketCap": 1.3427,
+      "price": 678.0,
+      "change1d": 1.28,
+      "change1w": 4.21,
+      "change1m": 3.85,
+      "changeYtd": -23.15
+    },
+    {
+      "symbol": "FCH",
+      "marketCap": 0.6768,
+      "price": 238.5,
+      "change1d": -1.68,
+      "change1w": 2.86,
+      "change1m": 1.47,
+      "changeYtd": 3.53
+    },
+    {
+      "symbol": "FCIT",
+      "marketCap": 6.4996,
+      "price": 344.8,
+      "change1d": 1.95,
+      "change1w": -2.58,
+      "change1m": -9.51,
+      "changeYtd": -23.33
+    },
+    {
+      "symbol": "FCSS",
+      "marketCap": 1.1998,
+      "price": 262.5,
+      "change1d": 0.52,
+      "change1w": 4.95,
+      "change1m": -9.8,
+      "changeYtd": -3.28
+    },
+    {
+      "symbol": "FEML",
+      "marketCap": 0.5875,
+      "price": 1474.0,
+      "change1d": -2.19,
+      "change1w": 0.19,
+      "change1m": -2.38,
+      "changeYtd": -7.33
+    },
+    {
+      "symbol": "FEV",
+      "marketCap": 2.2031,
+      "price": 444.0,
+      "change1d": 2.33,
+      "change1w": 2.04,
+      "change1m": -0.35,
+      "changeYtd": -23.11
+    },
+    {
+      "symbol": "FGEN",
+      "marketCap": 0.5423,
+      "price": 87.0,
+      "change1d": 0.65,
+      "change1w": 0.34,
+      "change1m": -6.62,
+      "changeYtd": -12.95
+    },
+    {
+      "symbol": "FGP",
+      "marketCap": 0.9973,
+      "price": 183.8,
+      "change1d": 0.63,
+      "change1w": -2.99,
+      "change1m": 3.04,
+      "changeYtd": -20.72
+    },
+    {
+      "symbol": "FGT",
+      "marketCap": 0.8392,
+      "price": 810.0,
+      "change1d": 0.99,
+      "change1w": 2.87,
+      "change1m": 0.5,
+      "changeYtd": -23.45
+    },
+    {
+      "symbol": "FOUR",
+      "marketCap": 1.3417,
+      "price": 4784.0,
+      "change1d": -1.54,
+      "change1w": -4.42,
+      "change1m": 0.93,
+      "changeYtd": -2.1
+    },
+    {
+      "symbol": "FRAS",
+      "marketCap": 3.5177,
+      "price": 817.5,
+      "change1d": 2.07,
+      "change1w": -4.17,
+      "change1m": 3.38,
+      "changeYtd": 3.17
+    },
+    {
+      "symbol": "FRES",
+      "marketCap": 21.171,
+      "price": 2873.0,
+      "change1d": 1.73,
+      "change1w": -4.0,
+      "change1m": 6.25,
+      "changeYtd": 23.59
+    },
+    {
+      "symbol": "FSG",
+      "marketCap": 0.5562,
+      "price": 500.0,
+      "change1d": 0.67,
+      "change1w": 3.12,
+      "change1m": 0.24,
+      "changeYtd": -3.3
+    },
+    {
+      "symbol": "FSV",
+      "marketCap": 1.5358,
+      "price": 473.5,
+      "change1d": -1.94,
+      "change1w": 1.3,
+      "change1m": 2.18,
+      "changeYtd": -13.65
+    },
+    {
+      "symbol": "GAMA",
+      "marketCap": 0.8732,
+      "price": 969.0,
+      "change1d": 2.37,
+      "change1w": -1.31,
+      "change1m": -0.67,
+      "changeYtd": -4.2
+    },
+    {
+      "symbol": "GAW",
+      "marketCap": 6.3049,
+      "price": 19080.0,
+      "change1d": -0.61,
+      "change1w": -1.16,
+      "change1m": -2.11,
+      "changeYtd": -22.52
+    },
+    {
+      "symbol": "GBG",
+      "marketCap": 0.5338,
+      "price": 232.0,
+      "change1d": 1.14,
+      "change1w": 3.23,
+      "change1m": -10.22,
+      "changeYtd": -3.6
+    },
+    {
+      "symbol": "GCP",
+      "marketCap": 0.6646,
+      "price": 82.0,
+      "change1d": 1.67,
+      "change1w": -4.82,
+      "change1m": -1.15,
+      "changeYtd": 11.87
+    },
+    {
+      "symbol": "GDWN",
+      "marketCap": 1.5081,
+      "price": 19760.0,
+      "change1d": 0.73,
+      "change1w": -0.34,
+      "change1m": -7.06,
+      "changeYtd": 8.66
+    },
+    {
+      "symbol": "GEN",
+      "marketCap": 0.7131,
+      "price": 283.0,
+      "change1d": -2.22,
+      "change1w": 3.07,
+      "change1m": -0.49,
+      "changeYtd": -3.72
+    },
+    {
+      "symbol": "GFRD",
+      "marketCap": 0.6148,
+      "price": 626.0,
+      "change1d": 0.41,
+      "change1w": 3.34,
+      "change1m": 2.47,
+      "changeYtd": -9.36
+    },
+    {
+      "symbol": "GFTU",
+      "marketCap": 1.9621,
+      "price": 1040.0,
+      "change1d": 1.91,
+      "change1w": 1.68,
+      "change1m": -6.79,
+      "changeYtd": -5.64
+    },
+    {
+      "symbol": "GLEN",
+      "marketCap": 65.7117,
+      "price": 560.9,
+      "change1d": 0.41,
+      "change1w": 0.02,
+      "change1m": 4.77,
+      "changeYtd": 16.74
+    },
+    {
+      "symbol": "GNC",
+      "marketCap": 2.0899,
+      "price": 263.6,
+      "change1d": 1.92,
+      "change1w": 0.14,
+      "change1m": -2.36,
+      "changeYtd": -3.65
+    },
+    {
+      "symbol": "GNS",
+      "marketCap": 1.497,
+      "price": 2254.0,
+      "change1d": 2.23,
+      "change1w": -4.26,
+      "change1m": 10.86,
+      "changeYtd": -6.95
+    },
+    {
+      "symbol": "GPE",
+      "marketCap": 1.4539,
+      "price": 360.4,
+      "change1d": 0.72,
+      "change1w": 2.32,
+      "change1m": -9.65,
+      "changeYtd": 18.93
+    },
+    {
+      "symbol": "GRG",
+      "marketCap": 1.8821,
+      "price": 1846.0,
+      "change1d": -0.63,
+      "change1w": 0.27,
+      "change1m": -4.03,
+      "changeYtd": -19.16
+    },
+    {
+      "symbol": "GRI",
+      "marketCap": 1.3085,
+      "price": 177.0,
+      "change1d": -2.14,
+      "change1w": 3.2,
+      "change1m": 1.33,
+      "changeYtd": 6.98
+    },
+    {
+      "symbol": "GROW",
+      "marketCap": 1.178,
+      "price": 684.0,
+      "change1d": 1.05,
+      "change1w": -2.89,
+      "change1m": 10.08,
+      "changeYtd": -21.56
+    },
+    {
+      "symbol": "GSCT",
+      "marketCap": 0.813,
+      "price": 196.2,
+      "change1d": 1.85,
+      "change1w": -4.26,
+      "change1m": 8.32,
+      "changeYtd": 0.5
+    },
+    {
+      "symbol": "GSK",
+      "marketCap": 74.4035,
+      "price": 1856.5,
+      "change1d": -1.01,
+      "change1w": -1.51,
+      "change1m": -4.32,
+      "changeYtd": -1.94
+    },
+    {
+      "symbol": "HANA",
+      "marketCap": 0.6505,
+      "price": 328.0,
+      "change1d": 1.25,
+      "change1w": 3.99,
+      "change1m": -10.46,
+      "changeYtd": 12.46
+    },
+    {
+      "symbol": "HAS",
+      "marketCap": 1.0406,
+      "price": 65.6,
+      "change1d": -1.47,
+      "change1w": 2.99,
+      "change1m": -2.51,
+      "changeYtd": -18.26
+    },
+    {
+      "symbol": "HBR",
+      "marketCap": 3.8281,
+      "price": 244.0,
+      "change1d": -0.35,
+      "change1w": -1.51,
+      "change1m": -3.19,
+      "changeYtd": 21.35
+    },
+    {
+      "symbol": "HFD",
+      "marketCap": 0.5087,
+      "price": 233.5,
+      "change1d": -0.54,
+      "change1w": -0.29,
+      "change1m": 9.92,
+      "changeYtd": 12.3
+    },
+    {
+      "symbol": "HFEL",
+      "marketCap": 0.5611,
+      "price": 263.0,
+      "change1d": 2.05,
+      "change1w": -4.63,
+      "change1m": 0.46,
+      "changeYtd": 21.86
+    },
+    {
+      "symbol": "HFG",
+      "marketCap": 0.5514,
+      "price": 613.0,
+      "change1d": 2.22,
+      "change1w": -3.85,
+      "change1m": -1.28,
+      "changeYtd": 12.53
+    },
+    {
+      "symbol": "HGT",
+      "marketCap": 1.8482,
+      "price": 408.0,
+      "change1d": 1.86,
+      "change1w": 1.32,
+      "change1m": -5.13,
+      "changeYtd": -2.87
+    },
+    {
+      "symbol": "HICL",
+      "marketCap": 2.5779,
+      "price": 137.8,
+      "change1d": 2.33,
+      "change1w": -2.0,
+      "change1m": 1.07,
+      "changeYtd": -16.8
+    },
+    {
+      "symbol": "HIK",
+      "marketCap": 3.4756,
+      "price": 1643.0,
+      "change1d": 1.04,
+      "change1w": 5.39,
+      "change1m": 4.67,
+      "changeYtd": -3.0
+    },
+    {
+      "symbol": "HILS",
+      "marketCap": 2.294,
+      "price": 2930.0,
+      "change1d": -1.35,
+      "change1w": -3.56,
+      "change1m": -3.14,
+      "changeYtd": -13.17
+    },
+    {
+      "symbol": "HLMA",
+      "marketCap": 14.1412,
+      "price": 3744.0,
+      "change1d": 1.13,
+      "change1w": 0.77,
+      "change1m": -3.48,
+      "changeYtd": -21.92
+    },
+    {
+      "symbol": "HLN",
+      "marketCap": 31.5985,
+      "price": 357.9,
+      "change1d": 1.86,
+      "change1w": -0.95,
+      "change1m": -3.08,
+      "changeYtd": 11.81
+    },
+    {
+      "symbol": "HMSO",
+      "marketCap": 2.0379,
+      "price": 384.4,
+      "change1d": -1.43,
+      "change1w": 1.37,
+      "change1m": -9.63,
+      "changeYtd": -19.2
+    },
+    {
+      "symbol": "HOC",
+      "marketCap": 2.6186,
+      "price": 509.0,
+      "change1d": -0.07,
+      "change1w": -3.34,
+      "change1m": -5.68,
+      "changeYtd": 1.73
+    },
+    {
+      "symbol": "HRI",
+      "marketCap": 0.5846,
+      "price": 3060.0,
+      "change1d": -0.41,
+      "change1w": 1.46,
+      "change1m": 0.54,
+      "changeYtd": -18.29
+    },
+    {
+      "symbol": "HSBA",
+      "marketCap": 261.6474,
+      "price": 1525.8,
+      "change1d": -0.72,
+      "change1w": 2.39,
+      "change1m": -9.98,
+      "changeYtd": 4.12
+    },
+    {
+      "symbol": "HSL",
+      "marketCap": 0.5475,
+      "price": 988.0,
+      "change1d": 1.74,
+      "change1w": -0.85,
+      "change1m": -5.18,
+      "changeYtd": -6.36
+    },
+    {
+      "symbol": "HSX",
+      "marketCap": 5.7149,
+      "price": 1785.0,
+      "change1d": -1.63,
+      "change1w": -4.29,
+      "change1m": 2.13,
+      "changeYtd": 22.18
+    },
+    {
+      "symbol": "HTG",
+      "marketCap": 0.7036,
+      "price": 482.0,
+      "change1d": -0.01,
+      "change1w": 2.35,
+      "change1m": 9.98,
+      "changeYtd": 12.51
+    },
+    {
+      "symbol": "HTWS",
+      "marketCap": 2.1149,
+      "price": 207.2,
+      "change1d": 2.11,
+      "change1w": 5.13,
+      "change1m": 3.77,
+      "changeYtd": 21.44
+    },
+    {
+      "symbol": "HVPE",
+      "marketCap": 2.4268,
+      "price": 3475.0,
+      "change1d": -1.74,
+      "change1w": 0.37,
+      "change1m": 8.51,
+      "changeYtd": -23.82
+    },
+    {
+      "symbol": "HWDN",
+      "marketCap": 4.4328,
+      "price": 822.5,
+      "change1d": -0.64,
+      "change1w": -4.64,
+      "change1m": 4.62,
+      "changeYtd": -19.65
+    },
+    {
+      "symbol": "HWG",
+      "marketCap": 0.5886,
+      "price": 181.0,
+      "change1d": 0.22,
+      "change1w": -0.35,
+      "change1m": -2.35,
+      "changeYtd": -0.8
+    },
+    {
+      "symbol": "IAD",
+      "marketCap": 0.9936,
+      "price": 492.5,
+      "change1d": -0.63,
+      "change1w": 0.8,
+      "change1m": 1.39,
+      "changeYtd": -22.47
+    },
+    {
+      "symbol": "IAG",
+      "marketCap": 19.6472,
+      "price": 442.5,
+      "change1d": 0.19,
+      "change1w": -0.51,
+      "change1m": -5.56,
+      "changeYtd": 15.62
+    },
+    {
+      "symbol": "ICG",
+      "marketCap": 5.7612,
+      "price": 2046.0,
+      "change1d": -2.3,
+      "change1w": 2.4,
+      "change1m": -2.59,
+      "changeYtd": 17.45
+    },
+    {
+      "symbol": "ICGT",
+      "marketCap": 0.8895,
+      "price": 1462.0,
+      "change1d": 0.0,
+      "change1w": -1.04,
+      "change1m": 4.09,
+      "changeYtd": 10.82
+    },
+    {
+      "symbol": "IGG",
+      "marketCap": 4.4011,
+      "price": 1332.0,
+      "change1d": 2.37,
+      "change1w": -0.32,
+      "change1m": 10.39,
+      "changeYtd": -2.67
+    },
+    {
+      "symbol": "IHG",
+      "marketCap": 22.762,
+      "price": 15925.0,
+      "change1d": 1.36,
+      "change1w": 5.24,
+      "change1m": 1.2,
+      "changeYtd": 11.31
+    },
+    {
+      "symbol": "IHP",
+      "marketCap": 1.3083,
+      "price": 396.0,
+      "change1d": -1.61,
+      "change1w": 2.18,
+      "change1m": 10.33,
+      "changeYtd": -16.83
+    },
+    {
+      "symbol": "III",
+      "marketCap": 28.0784,
+      "price": 2780.0,
+      "change1d": -0.03,
+      "change1w": 2.98,
+      "change1m": 7.05,
+      "changeYtd": -8.26
+    },
+    {
+      "symbol": "IMB",
+      "marketCap": 20.3098,
+      "price": 2643.0,
+      "change1d": -0.9,
+      "change1w": -1.59,
+      "change1m": -9.67,
+      "changeYtd": -3.03
+    },
+    {
+      "symbol": "IMI",
+      "marketCap": 7.3471,
+      "price": 3088.0,
+      "change1d": -2.22,
+      "change1w": -1.35,
+      "change1m": 1.1,
+      "changeYtd": -13.51
+    },
+    {
+      "symbol": "INCH",
+      "marketCap": 2.8753,
+      "price": 819.0,
+      "change1d": -0.23,
+      "change1w": -1.07,
+      "change1m": 2.72,
+      "changeYtd": -3.97
+    },
+    {
+      "symbol": "INF",
+      "marketCap": 11.5733,
+      "price": 921.6,
+      "change1d": -2.35,
+      "change1w": 5.3,
+      "change1m": -5.52,
+      "changeYtd": -5.69
+    },
+    {
+      "symbol": "INPP",
+      "marketCap": 2.5116,
+      "price": 140.2,
+      "change1d": -2.08,
+      "change1w": -1.93,
+      "change1m": -4.05,
+      "changeYtd": -6.2
+    },
+    {
+      "symbol": "INVP",
+      "marketCap": 4.2931,
+      "price": 679.5,
+      "change1d": -1.51,
+      "change1w": -3.84,
+      "change1m": 4.87,
+      "changeYtd": -10.56
+    },
+    {
+      "symbol": "IPO",
+      "marketCap": 0.6255,
+      "price": 70.8,
+      "change1d": 0.72,
+      "change1w": 2.7,
+      "change1m": -9.42,
+      "changeYtd": 5.43
+    },
+    {
+      "symbol": "ITH",
+      "marketCap": 3.9185,
+      "price": 237.4,
+      "change1d": 1.08,
+      "change1w": -4.07,
+      "change1m": -4.89,
+      "changeYtd": -4.16
+    },
+    {
+      "symbol": "ITRK",
+      "marketCap": 8.9642,
+      "price": 5840.0,
+      "change1d": -2.39,
+      "change1w": 5.42,
+      "change1m": -9.92,
+      "changeYtd": 14.58
+    },
+    {
+      "symbol": "ITV",
+      "marketCap": 2.6797,
+      "price": 71.65,
+      "change1d": -2.29,
+      "change1w": -3.57,
+      "change1m": 9.03,
+      "changeYtd": 20.4
+    },
+    {
+      "symbol": "IWG",
+      "marketCap": 1.7287,
+      "price": 182.5,
+      "change1d": -1.78,
+      "change1w": 4.31,
+      "change1m": -2.2,
+      "changeYtd": -4.42
+    },
+    {
+      "symbol": "JAM",
+      "marketCap": 2.083,
+      "price": 1254.0,
+      "change1d": -1.16,
+      "change1w": 1.23,
+      "change1m": -0.79,
+      "changeYtd": 10.07
+    },
+    {
+      "symbol": "JCH",
+      "marketCap": 0.5278,
+      "price": 970.0,
+      "change1d": 0.51,
+      "change1w": -5.2,
+      "change1m": 3.42,
+      "changeYtd": -9.2
+    },
+    {
+      "symbol": "JD.",
+      "marketCap": 4.4688,
+      "price": 93.4,
+      "change1d": -0.75,
+      "change1w": 1.55,
+      "change1m": -6.32,
+      "changeYtd": -2.82
+    },
+    {
+      "symbol": "JDW",
+      "marketCap": 0.8691,
+      "price": 824.5,
+      "change1d": 1.54,
+      "change1w": 1.58,
+      "change1m": 9.35,
+      "changeYtd": -10.08
+    },
+    {
+      "symbol": "JEDT",
+      "marketCap": 0.5729,
+      "price": 630.0,
+      "change1d": -0.2,
+      "change1w": 3.29,
+      "change1m": -10.26,
+      "changeYtd": 0.42
+    },
+    {
+      "symbol": "JEGI",
+      "marketCap": 0.6335,
+      "price": 150.0,
+      "change1d": -1.57,
+      "change1w": 0.04,
+      "change1m": -1.84,
+      "changeYtd": -1.72
+    },
+    {
+      "symbol": "JEMI",
+      "marketCap": 0.537,
+      "price": 207.0,
+      "change1d": -0.01,
+      "change1w": 0.92,
+      "change1m": 4.71,
+      "changeYtd": 16.23
+    },
+    {
+      "symbol": "JFJ",
+      "marketCap": 1.3111,
+      "price": 858.0,
+      "change1d": -2.34,
+      "change1w": 0.4,
+      "change1m": -2.25,
+      "changeYtd": 10.52
+    },
+    {
+      "symbol": "JGGI",
+      "marketCap": 3.4599,
+      "price": 634.0,
+      "change1d": 1.28,
+      "change1w": -1.76,
+      "change1m": 9.81,
+      "changeYtd": -19.74
+    },
+    {
+      "symbol": "JMAT",
+      "marketCap": 3.6767,
+      "price": 2190.0,
+      "change1d": -0.21,
+      "change1w": -3.56,
+      "change1m": 7.74,
+      "changeYtd": 17.4
+    },
+    {
+      "symbol": "JMGI",
+      "marketCap": 1.5681,
+      "price": 166.2,
+      "change1d": -1.97,
+      "change1w": 4.07,
+      "change1m": -1.37,
+      "changeYtd": -13.7
+    },
+    {
+      "symbol": "JSG",
+      "marketCap": 0.5514,
+      "price": 147.2,
+      "change1d": -0.92,
+      "change1w": 3.38,
+      "change1m": 10.87,
+      "changeYtd": 16.65
+    },
+    {
+      "symbol": "JTC",
+      "marketCap": 2.3054,
+      "price": 1338.0,
+      "change1d": -2.01,
+      "change1w": 0.24,
+      "change1m": 0.73,
+      "changeYtd": 19.89
+    },
+    {
+      "symbol": "JUP",
+      "marketCap": 0.8034,
+      "price": 162.0,
+      "change1d": -2.33,
+      "change1w": -4.42,
+      "change1m": -2.15,
+      "changeYtd": -8.96
+    },
+    {
+      "symbol": "KGF",
+      "marketCap": 5.4226,
+      "price": 327.6,
+      "change1d": -0.78,
+      "change1w": 1.07,
+      "change1m": 4.97,
+      "changeYtd": -3.52
+    },
+    {
+      "symbol": "KIE",
+      "marketCap": 1.1326,
+      "price": 260.2,
+      "change1d": 0.43,
+      "change1w": 4.24,
+      "change1m": 5.17,
+      "changeYtd": -13.77
+    },
+    {
+      "symbol": "KLR",
+      "marketCap": 2.1335,
+      "price": 3118.0,
+      "change1d": 0.78,
+      "change1w": -0.86,
+      "change1m": -4.13,
+      "changeYtd": -3.67
+    },
+    {
+      "symbol": "KNOS",
+      "marketCap": 1.0515,
+      "price": 913.0,
+      "change1d": 1.7,
+      "change1w": 3.99,
+      "change1m": 2.46,
+      "changeYtd": 3.69
+    },
+    {
+      "symbol": "LAND",
+      "marketCap": 5.2824,
+      "price": 709.0,
+      "change1d": 2.3,
+      "change1w": 1.99,
+      "change1m": 6.43,
+      "changeYtd": -15.39
+    },
+    {
+      "symbol": "LGEN",
+      "marketCap": 16.3978,
+      "price": 299.2,
+      "change1d": -0.71,
+      "change1w": 1.95,
+      "change1m": 6.41,
+      "changeYtd": 10.56
+    },
+    {
+      "symbol": "LLOY",
+      "marketCap": 67.1236,
+      "price": 115.3,
+      "change1d": 1.04,
+      "change1w": -2.53,
+      "change1m": 1.49,
+      "changeYtd": -8.33
+    },
+    {
+      "symbol": "LMP",
+      "marketCap": 4.5296,
+      "price": 194.0,
+      "change1d": -2.16,
+      "change1w": -0.21,
+      "change1m": -9.82,
+      "changeYtd": -19.27
+    },
+    {
+      "symbol": "LRE",
+      "marketCap": 1.4347,
+      "price": 591.5,
+      "change1d": -1.03,
+      "change1w": 1.82,
+      "change1m": -4.91,
+      "changeYtd": -23.16
+    },
+    {
+      "symbol": "LSEG",
+      "marketCap": 41.66,
+      "price": 8556.0,
+      "change1d": 0.05,
+      "change1w": 3.36,
+      "change1m": 2.09,
+      "changeYtd": 4.78
+    },
+    {
+      "symbol": "LWDB",
+      "marketCap": 1.6798,
+      "price": 1262.0,
+      "change1d": 2.21,
+      "change1w": -2.56,
+      "change1m": 5.99,
+      "changeYtd": -18.54
+    },
+    {
+      "symbol": "MAB",
+      "marketCap": 1.6798,
+      "price": 283.0,
+      "change1d": 1.73,
+      "change1w": 5.23,
+      "change1m": 0.08,
+      "changeYtd": 9.51
+    },
+    {
+      "symbol": "MEGP",
+      "marketCap": 0.4439,
+      "price": 118.4,
+      "change1d": 1.21,
+      "change1w": 2.47,
+      "change1m": 2.69,
+      "changeYtd": 18.32
+    },
+    {
+      "symbol": "MGAM",
+      "marketCap": 0.6952,
+      "price": 251.5,
+      "change1d": 0.26,
+      "change1w": -4.79,
+      "change1m": -0.66,
+      "changeYtd": -20.09
+    },
+    {
+      "symbol": "MGNS",
+      "marketCap": 2.1162,
+      "price": 4536.0,
+      "change1d": 0.53,
+      "change1w": 0.25,
+      "change1m": 8.31,
+      "changeYtd": 14.11
+    },
+    {
+      "symbol": "MKS",
+      "marketCap": 8.0284,
+      "price": 390.7,
+      "change1d": -0.39,
+      "change1w": -0.01,
+      "change1m": -6.35,
+      "changeYtd": -1.23
+    },
+    {
+      "symbol": "MNDI",
+      "marketCap": 3.8808,
+      "price": 880.4,
+      "change1d": -2.03,
+      "change1w": -2.53,
+      "change1m": -10.23,
+      "changeYtd": -16.37
+    },
+    {
+      "symbol": "MNG",
+      "marketCap": 8.4191,
+      "price": 353.4,
+      "change1d": -1.42,
+      "change1w": -4.35,
+      "change1m": -7.11,
+      "changeYtd": 10.36
+    },
+    {
+      "symbol": "MNKS",
+      "marketCap": 2.5417,
+      "price": 1640.0,
+      "change1d": 2.23,
+      "change1w": -3.79,
+      "change1m": 2.97,
+      "changeYtd": 8.45
+    },
+    {
+      "symbol": "MNTN",
+      "marketCap": 2.2383,
+      "price": 218.0,
+      "change1d": -0.14,
+      "change1w": 0.56,
+      "change1m": 1.51,
+      "changeYtd": 19.89
+    },
+    {
+      "symbol": "MONY",
+      "marketCap": 1.052,
+      "price": 203.4,
+      "change1d": -0.04,
+      "change1w": 4.58,
+      "change1m": -1.84,
+      "changeYtd": 21.86
+    },
+    {
+      "symbol": "MOON",
+      "marketCap": 0.8525,
+      "price": 285.4,
+      "change1d": -1.94,
+      "change1w": -0.34,
+      "change1m": 1.53,
+      "changeYtd": 3.22
+    },
+    {
+      "symbol": "MRC",
+      "marketCap": 1.8404,
+      "price": 287.5,
+      "change1d": 1.69,
+      "change1w": -2.32,
+      "change1m": 8.77,
+      "changeYtd": -15.28
+    },
+    {
+      "symbol": "MRCH",
+      "marketCap": 0.9995,
+      "price": 677.0,
+      "change1d": -1.96,
+      "change1w": -2.89,
+      "change1m": -1.57,
+      "changeYtd": 18.69
+    },
+    {
+      "symbol": "MRO",
+      "marketCap": 6.133,
+      "price": 492.1,
+      "change1d": -0.34,
+      "change1w": 4.26,
+      "change1m": -4.94,
+      "changeYtd": 20.61
+    },
+    {
+      "symbol": "MTLN",
+      "marketCap": 6.9624,
+      "price": 4868.0,
+      "change1d": -1.23,
+      "change1w": -0.47,
+      "change1m": -7.36,
+      "changeYtd": 16.72
+    },
+    {
+      "symbol": "MTO",
+      "marketCap": 2.6059,
+      "price": 208.0,
+      "change1d": -1.11,
+      "change1w": -0.96,
+      "change1m": -7.63,
+      "changeYtd": -0.97
+    },
+    {
+      "symbol": "MTRO",
+      "marketCap": 1.2068,
+      "price": 179.2,
+      "change1d": 1.5,
+      "change1w": 0.71,
+      "change1m": 0.83,
+      "changeYtd": 9.26
+    },
+    {
+      "symbol": "MUT",
+      "marketCap": 0.9384,
+      "price": 1004.0,
+      "change1d": -1.59,
+      "change1w": 2.94,
+      "change1m": -0.57,
+      "changeYtd": -19.04
+    },
+    {
+      "symbol": "MYI",
+      "marketCap": 2.2023,
+      "price": 370.0,
+      "change1d": -0.67,
+      "change1w": -0.16,
+      "change1m": -9.42,
+      "changeYtd": -18.77
+    },
+    {
+      "symbol": "N91",
+      "marketCap": 1.3792,
+      "price": 218.4,
+      "change1d": -0.82,
+      "change1w": 1.5,
+      "change1m": -3.54,
+      "changeYtd": -6.22
+    },
+    {
+      "symbol": "NAS",
+      "marketCap": 0.5341,
+      "price": 420.0,
+      "change1d": 1.73,
+      "change1w": 0.77,
+      "change1m": 8.19,
+      "changeYtd": 22.21
+    },
+    {
+      "symbol": "NBPE",
+      "marketCap": 0.6154,
+      "price": 1480.0,
+      "change1d": 0.77,
+      "change1w": 1.31,
+      "change1m": 2.68,
+      "changeYtd": 19.31
+    },
+    {
+      "symbol": "NCC",
+      "marketCap": 0.3949,
+      "price": 141.6,
+      "change1d": -1.12,
+      "change1w": 2.53,
+      "change1m": -1.87,
+      "changeYtd": 4.6
+    },
+    {
+      "symbol": "NG.",
+      "marketCap": 59.7334,
+      "price": 1200.5,
+      "change1d": -1.26,
+      "change1w": 0.46,
+      "change1m": 7.21,
+      "changeYtd": -21.06
+    },
+    {
+      "symbol": "NWG",
+      "marketCap": 56.1616,
+      "price": 705.6,
+      "change1d": -0.77,
+      "change1w": 4.51,
+      "change1m": -0.08,
+      "changeYtd": -5.1
+    },
+    {
+      "symbol": "NXT",
+      "marketCap": 17.4938,
+      "price": 15325.0,
+      "change1d": 1.46,
+      "change1w": 2.42,
+      "change1m": -0.75,
+      "changeYtd": 20.46
+    },
+    {
+      "symbol": "OCDO",
+      "marketCap": 2.1436,
+      "price": 257.4,
+      "change1d": 1.28,
+      "change1w": -3.02,
+      "change1m": -7.44,
+      "changeYtd": 8.07
+    },
+    {
+      "symbol": "OCI",
+      "marketCap": 0.8652,
+      "price": 524.0,
+      "change1d": -1.79,
+      "change1w": -0.72,
+      "change1m": 6.8,
+      "changeYtd": -14.02
+    },
+    {
+      "symbol": "ONT",
+      "marketCap": 1.2268,
+      "price": 126.1,
+      "change1d": 0.59,
+      "change1w": 4.07,
+      "change1m": -10.84,
+      "changeYtd": 10.17
+    },
+    {
+      "symbol": "OSB",
+      "marketCap": 1.7075,
+      "price": 499.6,
+      "change1d": 1.78,
+      "change1w": -2.44,
+      "change1m": 1.21,
+      "changeYtd": 9.75
+    },
+    {
+      "symbol": "OXB",
+      "marketCap": 0.5899,
+      "price": 487.5,
+      "change1d": 0.18,
+      "change1w": -4.44,
+      "change1m": 6.89,
+      "changeYtd": 13.23
+    },
+    {
+      "symbol": "OXIG",
+      "marketCap": 1.6281,
+      "price": 2950.0,
+      "change1d": -0.28,
+      "change1w": -5.23,
+      "change1m": -6.87,
+      "changeYtd": 12.47
+    },
+    {
+      "symbol": "PAF",
+      "marketCap": 2.1692,
+      "price": 107.0,
+      "change1d": 0.92,
+      "change1w": -1.17,
+      "change1m": 2.13,
+      "changeYtd": 23.48
+    },
+    {
+      "symbol": "PAG",
+      "marketCap": 1.5099,
+      "price": 816.0,
+      "change1d": -1.85,
+      "change1w": 3.02,
+      "change1m": -1.46,
+      "changeYtd": 10.38
+    },
+    {
+      "symbol": "PAGE",
+      "marketCap": 0.6072,
+      "price": 195.0,
+      "change1d": -0.11,
+      "change1w": -0.38,
+      "change1m": -0.32,
+      "changeYtd": 5.15
+    },
+    {
+      "symbol": "PCGH",
+      "marketCap": 0.4529,
+      "price": 450.0,
+      "change1d": -0.37,
+      "change1w": 3.9,
+      "change1m": -7.35,
+      "changeYtd": 8.54
+    },
+    {
+      "symbol": "PCT",
+      "marketCap": 7.6036,
+      "price": 685.0,
+      "change1d": -1.78,
+      "change1w": -0.37,
+      "change1m": 7.85,
+      "changeYtd": -8.7
+    },
+    {
+      "symbol": "PETS",
+      "marketCap": 0.9429,
+      "price": 213.2,
+      "change1d": -0.34,
+      "change1w": 2.3,
+      "change1m": 5.86,
+      "changeYtd": 14.78
+    },
+    {
+      "symbol": "PEYS",
+      "marketCap": 0.4138,
+      "price": 612.0,
+      "change1d": -0.07,
+      "change1w": 2.62,
+      "change1m": 2.34,
+      "changeYtd": -11.81
+    },
+    {
+      "symbol": "PFD",
+      "marketCap": 1.6768,
+      "price": 194.6,
+      "change1d": 1.53,
+      "change1w": -1.85,
+      "change1m": 10.12,
+      "changeYtd": 19.16
+    },
+    {
+      "symbol": "PHI",
+      "marketCap": 0.8885,
+      "price": 1116.0,
+      "change1d": 0.89,
+      "change1w": 3.39,
+      "change1m": 5.34,
+      "changeYtd": 2.26
+    },
+    {
+      "symbol": "PHP",
+      "marketCap": 2.4641,
+      "price": 94.95,
+      "change1d": -1.87,
+      "change1w": -3.5,
+      "change1m": 9.93,
+      "changeYtd": -19.55
+    },
+    {
+      "symbol": "PIN",
+      "marketCap": 1.6238,
+      "price": 404.0,
+      "change1d": 0.7,
+      "change1w": 4.49,
+      "change1m": -0.17,
+      "changeYtd": 13.36
+    },
+    {
+      "symbol": "PINT",
+      "marketCap": 0.5277,
+      "price": 112.6,
+      "change1d": -1.73,
+      "change1w": 3.09,
+      "change1m": -10.84,
+      "changeYtd": 13.63
+    },
+    {
+      "symbol": "PLUS",
+      "marketCap": 2.5786,
+      "price": 3714.0,
+      "change1d": 2.1,
+      "change1w": -1.71,
+      "change1m": -5.48,
+      "changeYtd": 13.77
+    },
+    {
+      "symbol": "PNL",
+      "marketCap": 1.7042,
+      "price": 551.0,
+      "change1d": 1.68,
+      "change1w": -4.65,
+      "change1m": -8.53,
+      "changeYtd": -23.92
+    },
+    {
+      "symbol": "PNN",
+      "marketCap": 2.2073,
+      "price": 467.8,
+      "change1d": 2.02,
+      "change1w": -0.52,
+      "change1m": -10.79,
+      "changeYtd": -9.16
+    },
+    {
+      "symbol": "POLN",
+      "marketCap": 0.5085,
+      "price": 855.0,
+      "change1d": 0.65,
+      "change1w": -2.86,
+      "change1m": -5.53,
+      "changeYtd": 8.69
+    },
+    {
+      "symbol": "PPET",
+      "marketCap": 0.8834,
+      "price": 604.0,
+      "change1d": 1.97,
+      "change1w": 0.0,
+      "change1m": -5.88,
+      "changeYtd": -17.08
+    },
+    {
+      "symbol": "PPH",
+      "marketCap": 0.6363,
+      "price": 1520.0,
+      "change1d": -1.25,
+      "change1w": -0.42,
+      "change1m": 0.12,
+      "changeYtd": 19.9
+    },
+    {
+      "symbol": "PRN",
+      "marketCap": 0.8112,
+      "price": 331.5,
+      "change1d": 0.29,
+      "change1w": 2.1,
+      "change1m": -0.92,
+      "changeYtd": 17.63
+    },
+    {
+      "symbol": "PRU",
+      "marketCap": 25.4209,
+      "price": 1017.5,
+      "change1d": 1.85,
+      "change1w": 3.85,
+      "change1m": -7.77,
+      "changeYtd": -14.75
+    },
+    {
+      "symbol": "PSH",
+      "marketCap": 6.7702,
+      "price": 3868.0,
+      "change1d": 0.5,
+      "change1w": 2.75,
+      "change1m": 0.99,
+      "changeYtd": -1.37
+    },
+    {
+      "symbol": "PSN",
+      "marketCap": 3.8379,
+      "price": 1195.5,
+      "change1d": -1.28,
+      "change1w": -0.28,
+      "change1m": 4.31,
+      "changeYtd": 12.26
+    },
+    {
+      "symbol": "PSON",
+      "marketCap": 7.16,
+      "price": 1192.5,
+      "change1d": -2.28,
+      "change1w": -0.06,
+      "change1m": 6.34,
+      "changeYtd": 3.17
+    },
+    {
+      "symbol": "PTEC",
+      "marketCap": 1.028,
+      "price": 370.0,
+      "change1d": -2.28,
+      "change1w": 2.34,
+      "change1m": -4.48,
+      "changeYtd": -19.82
+    },
+    {
+      "symbol": "QLT",
+      "marketCap": 2.7134,
+      "price": 198.6,
+      "change1d": 0.09,
+      "change1w": 2.35,
+      "change1m": -6.03,
+      "changeYtd": 11.36
+    },
+    {
+      "symbol": "QQ.",
+      "marketCap": 2.8805,
+      "price": 560.0,
+      "change1d": -0.2,
+      "change1w": 1.94,
+      "change1m": 9.18,
+      "changeYtd": 19.7
+    },
+    {
+      "symbol": "RAT",
+      "marketCap": 1.4644,
+      "price": 1702.0,
+      "change1d": 0.74,
+      "change1w": -4.89,
+      "change1m": 5.09,
+      "changeYtd": 16.52
+    },
+    {
+      "symbol": "RCP",
+      "marketCap": 3.555,
+      "price": 2625.0,
+      "change1d": 1.76,
+      "change1w": 1.77,
+      "change1m": 3.64,
+      "changeYtd": 6.07
+    },
+    {
+      "symbol": "REL",
+      "marketCap": 43.7475,
+      "price": 2491.0,
+      "change1d": -1.64,
+      "change1w": 4.1,
+      "change1m": 7.11,
+      "changeYtd": -1.73
+    },
+    {
+      "symbol": "RHIM",
+      "marketCap": 1.4438,
+      "price": 3050.0,
+      "change1d": -0.13,
+      "change1w": 2.47,
+      "change1m": 1.6,
+      "changeYtd": -16.34
+    },
+    {
+      "symbol": "RICA",
+      "marketCap": 0.8805,
+      "price": 298.0,
+      "change1d": 0.49,
+      "change1w": -4.57,
+      "change1m": 8.77,
+      "changeYtd": -17.52
+    },
+    {
+      "symbol": "RIO",
+      "marketCap": 89.8976,
+      "price": 7166.0,
+      "change1d": -0.98,
+      "change1w": -4.24,
+      "change1m": -1.15,
+      "changeYtd": -6.45
+    },
+    {
+      "symbol": "RKT",
+      "marketCap": 32.6415,
+      "price": 5140.0,
+      "change1d": 0.31,
+      "change1w": -0.55,
+      "change1m": -5.47,
+      "changeYtd": 3.48
+    },
+    {
+      "symbol": "RMV",
+      "marketCap": 3.651,
+      "price": 491.0,
+      "change1d": -1.99,
+      "change1w": 1.1,
+      "change1m": -10.29,
+      "changeYtd": -4.04
+    },
+    {
+      "symbol": "RNK",
+      "marketCap": 0.4956,
+      "price": 105.8,
+      "change1d": 0.4,
+      "change1w": -2.39,
+      "change1m": 5.58,
+      "changeYtd": 0.21
+    },
+    {
+      "symbol": "ROR",
+      "marketCap": 3.9533,
+      "price": 483.8,
+      "change1d": 1.37,
+      "change1w": 5.08,
+      "change1m": -6.86,
+      "changeYtd": -5.63
+    },
+    {
+      "symbol": "ROSE",
+      "marketCap": 3.4595,
+      "price": 350.0,
+      "change1d": 1.21,
+      "change1w": -2.03,
+      "change1m": -10.96,
+      "changeYtd": 21.74
+    },
+    {
+      "symbol": "RPI",
+      "marketCap": 1.3104,
+      "price": 677.0,
+      "change1d": 1.07,
+      "change1w": 1.4,
+      "change1m": -3.37,
+      "changeYtd": 3.14
+    },
+    {
+      "symbol": "RR.",
+      "marketCap": 126.3913,
+      "price": 1525.0,
+      "change1d": 1.8,
+      "change1w": -2.06,
+      "change1m": -10.65,
+      "changeYtd": 21.56
+    },
+    {
+      "symbol": "RS1",
+      "marketCap": 3.3717,
+      "price": 729.5,
+      "change1d": 1.15,
+      "change1w": 2.03,
+      "change1m": 0.15,
+      "changeYtd": 18.64
+    },
+    {
+      "symbol": "RSW",
+      "marketCap": 3.8113,
+      "price": 5240.0,
+      "change1d": -1.74,
+      "change1w": -0.6,
+      "change1m": -4.8,
+      "changeYtd": -9.86
+    },
+    {
+      "symbol": "RTO",
+      "marketCap": 8.8421,
+      "price": 351.4,
+      "change1d": -0.47,
+      "change1w": 4.8,
+      "change1m": -10.97,
+      "changeYtd": 18.08
+    },
+    {
+      "symbol": "RTW",
+      "marketCap": 0.8437,
+      "price": 261.0,
+      "change1d": -2.32,
+      "change1w": -1.51,
+      "change1m": -2.72,
+      "changeYtd": 11.03
+    },
+    {
+      "symbol": "SAFE",
+      "marketCap": 1.3652,
+      "price": 625.0,
+      "change1d": -0.62,
+      "change1w": 4.98,
+      "change1m": 9.56,
+      "changeYtd": 15.21
+    },
+    {
+      "symbol": "SAGA",
+      "marketCap": 0.9901,
+      "price": 681.0,
+      "change1d": -0.83,
+      "change1w": 4.78,
+      "change1m": -0.44,
+      "changeYtd": 4.74
+    },
+    {
+      "symbol": "SAIN",
+      "marketCap": 0.844,
+      "price": 561.0,
+      "change1d": -1.77,
+      "change1w": 2.51,
+      "change1m": 2.02,
+      "changeYtd": 1.65
+    },
+    {
+      "symbol": "SBRY",
+      "marketCap": 7.6112,
+      "price": 344.9,
+      "change1d": 0.82,
+      "change1w": -0.89,
+      "change1m": 8.09,
+      "changeYtd": 19.41
+    },
+    {
+      "symbol": "SCT",
+      "marketCap": 3.9419,
+      "price": 2008.0,
+      "change1d": -0.27,
+      "change1w": 1.74,
+      "change1m": 9.82,
+      "changeYtd": 8.83
+    },
+    {
+      "symbol": "SDLF",
+      "marketCap": 9.2232,
+      "price": 920.5,
+      "change1d": 2.38,
+      "change1w": 3.98,
+      "change1m": 8.95,
+      "changeYtd": -10.69
+    },
+    {
+      "symbol": "SDP",
+      "marketCap": 1.0596,
+      "price": 842.0,
+      "change1d": -0.17,
+      "change1w": -0.85,
+      "change1m": 9.77,
+      "changeYtd": 10.47
+    },
+    {
+      "symbol": "SDR",
+      "marketCap": 9.1064,
+      "price": 584.0,
+      "change1d": 0.66,
+      "change1w": -4.13,
+      "change1m": 3.51,
+      "changeYtd": 21.65
+    },
+    {
+      "symbol": "SEIT",
+      "marketCap": 0.4016,
+      "price": 37.0,
+      "change1d": -1.98,
+      "change1w": 2.66,
+      "change1m": -8.59,
+      "changeYtd": 14.56
+    },
+    {
+      "symbol": "SEQI",
+      "marketCap": 1.2516,
+      "price": 85.3,
+      "change1d": 1.67,
+      "change1w": 4.13,
+      "change1m": 3.41,
+      "changeYtd": 16.22
+    },
+    {
+      "symbol": "SGE",
+      "marketCap": 9.1448,
+      "price": 1015.0,
+      "change1d": 0.39,
+      "change1w": -3.95,
+      "change1m": -2.89,
+      "changeYtd": -3.68
+    },
+    {
+      "symbol": "SGRO",
+      "marketCap": 13.0898,
+      "price": 967.6,
+      "change1d": -1.69,
+      "change1w": -2.99,
+      "change1m": -1.09,
+      "changeYtd": -23.45
+    },
+    {
+      "symbol": "SHAW",
+      "marketCap": 1.7202,
+      "price": 331.0,
+      "change1d": -2.2,
+      "change1w": -5.37,
+      "change1m": 8.88,
+      "changeYtd": 10.64
+    },
+    {
+      "symbol": "SHC",
+      "marketCap": 2.7436,
+      "price": 150.5,
+      "change1d": -1.49,
+      "change1w": 4.06,
+      "change1m": 2.99,
+      "changeYtd": -11.92
+    },
+    {
+      "symbol": "SHEL",
+      "marketCap": 182.3246,
+      "price": 3288.0,
+      "change1d": -1.27,
+      "change1w": -1.36,
+      "change1m": -4.73,
+      "changeYtd": -5.1
+    },
+    {
+      "symbol": "SMIN",
+      "marketCap": 7.8261,
+      "price": 2612.0,
+      "change1d": -0.48,
+      "change1w": 4.18,
+      "change1m": -3.08,
+      "changeYtd": -9.66
+    },
+    {
+      "symbol": "SMT",
+      "marketCap": 16.104,
+      "price": 1449.5,
+      "change1d": -1.73,
+      "change1w": -2.42,
+      "change1m": -2.28,
+      "changeYtd": -20.98
+    },
+    {
+      "symbol": "SMWH",
+      "marketCap": 0.6544,
+      "price": 434.8,
+      "change1d": 1.27,
+      "change1w": -4.96,
+      "change1m": -0.07,
+      "changeYtd": -0.55
+    },
+    {
+      "symbol": "SN.",
+      "marketCap": 9.3663,
+      "price": 1105.5,
+      "change1d": -1.67,
+      "change1w": -1.3,
+      "change1m": 6.45,
+      "changeYtd": 1.53
+    },
+    {
+      "symbol": "SNR",
+      "marketCap": 1.2033,
+      "price": 292.0,
+      "change1d": -0.22,
+      "change1w": -5.04,
+      "change1m": 10.9,
+      "changeYtd": -20.72
+    },
+    {
+      "symbol": "SOI",
+      "marketCap": 1.0316,
+      "price": 463.0,
+      "change1d": -0.35,
+      "change1w": 4.79,
+      "change1m": -2.32,
+      "changeYtd": 11.03
+    },
+    {
+      "symbol": "SPI",
+      "marketCap": 0.9254,
+      "price": 231.0,
+      "change1d": -2.28,
+      "change1w": 3.57,
+      "change1m": -6.21,
+      "changeYtd": -1.33
+    },
+    {
+      "symbol": "SPX",
+      "marketCap": 5.2653,
+      "price": 7135.0,
+      "change1d": 1.63,
+      "change1w": -1.37,
+      "change1m": -0.18,
+      "changeYtd": -0.76
+    },
+    {
+      "symbol": "SRE",
+      "marketCap": 1.5351,
+      "price": 97.2,
+      "change1d": 0.2,
+      "change1w": -3.84,
+      "change1m": 10.84,
+      "changeYtd": 17.63
+    },
+    {
+      "symbol": "SRP",
+      "marketCap": 2.6793,
+      "price": 273.0,
+      "change1d": 0.62,
+      "change1w": -0.42,
+      "change1m": 9.76,
+      "changeYtd": 23.87
+    },
+    {
+      "symbol": "SSE",
+      "marketCap": 29.3201,
+      "price": 2431.0,
+      "change1d": 1.28,
+      "change1w": 2.15,
+      "change1m": 10.22,
+      "changeYtd": -15.65
+    },
+    {
+      "symbol": "SSIT",
+      "marketCap": 0.5556,
+      "price": 186.8,
+      "change1d": 0.9,
+      "change1w": 5.11,
+      "change1m": 10.07,
+      "changeYtd": -9.97
+    },
+    {
+      "symbol": "SSPG",
+      "marketCap": 1.6457,
+      "price": 214.4,
+      "change1d": 0.36,
+      "change1w": 0.55,
+      "change1m": -3.42,
+      "changeYtd": -13.97
+    },
+    {
+      "symbol": "STAN",
+      "marketCap": 48.4176,
+      "price": 2223.0,
+      "change1d": 1.4,
+      "change1w": -0.59,
+      "change1m": 6.69,
+      "changeYtd": -1.63
+    },
+    {
+      "symbol": "STJ",
+      "marketCap": 6.07,
+      "price": 1193.0,
+      "change1d": -1.37,
+      "change1w": 5.29,
+      "change1m": -4.41,
+      "changeYtd": 5.81
+    },
+    {
+      "symbol": "SUPR",
+      "marketCap": 1.0643,
+      "price": 85.4,
+      "change1d": 1.47,
+      "change1w": -1.65,
+      "change1m": 7.33,
+      "changeYtd": -5.11
+    },
+    {
+      "symbol": "SVS",
+      "marketCap": 1.8933,
+      "price": 1088.0,
+      "change1d": 0.8,
+      "change1w": -5.22,
+      "change1m": -7.18,
+      "changeYtd": -4.81
+    },
+    {
+      "symbol": "SVT",
+      "marketCap": 9.3663,
+      "price": 3104.0,
+      "change1d": 2.23,
+      "change1w": -1.4,
+      "change1m": 4.64,
+      "changeYtd": -20.04
+    },
+    {
+      "symbol": "SYNC",
+      "marketCap": 0.6508,
+      "price": 107.0,
+      "change1d": -0.93,
+      "change1w": 0.48,
+      "change1m": 2.74,
+      "changeYtd": 1.18
+    },
+    {
+      "symbol": "TATE",
+      "marketCap": 2.4496,
+      "price": 553.5,
+      "change1d": -1.29,
+      "change1w": -2.36,
+      "change1m": -2.88,
+      "changeYtd": -5.93
+    },
+    {
+      "symbol": "TBCG",
+      "marketCap": 2.667,
+      "price": 4842.0,
+      "change1d": 0.99,
+      "change1w": 1.66,
+      "change1m": 5.55,
+      "changeYtd": -0.25
+    },
+    {
+      "symbol": "TCAP",
+      "marketCap": 2.3635,
+      "price": 323.6,
+      "change1d": -1.25,
+      "change1w": 0.49,
+      "change1m": -7.6,
+      "changeYtd": 6.83
+    },
+    {
+      "symbol": "TEM",
+      "marketCap": 2.805,
+      "price": 321.0,
+      "change1d": 2.26,
+      "change1w": 2.6,
+      "change1m": -8.63,
+      "changeYtd": -20.86
+    },
+    {
+      "symbol": "TEP",
+      "marketCap": 0.677,
+      "price": 848.0,
+      "change1d": 1.43,
+      "change1w": -3.88,
+      "change1m": -4.87,
+      "changeYtd": -3.86
+    },
+    {
+      "symbol": "TFIF",
+      "marketCap": 0.9614,
+      "price": 108.0,
+      "change1d": 0.81,
+      "change1w": 0.31,
+      "change1m": -10.22,
+      "changeYtd": 3.65
+    },
+    {
+      "symbol": "THG",
+      "marketCap": 0.5186,
+      "price": 32.68,
+      "change1d": -1.16,
+      "change1w": -0.87,
+      "change1m": 1.41,
+      "changeYtd": -1.39
+    },
+    {
+      "symbol": "THRL",
+      "marketCap": 0.6959,
+      "price": 112.2,
+      "change1d": 2.26,
+      "change1w": 3.91,
+      "change1m": 4.08,
+      "changeYtd": -12.57
+    },
+    {
+      "symbol": "TMPL",
+      "marketCap": 1.2874,
+      "price": 424.5,
+      "change1d": -0.19,
+      "change1w": 4.46,
+      "change1m": 8.26,
+      "changeYtd": 14.1
+    },
+    {
+      "symbol": "TPK",
+      "marketCap": 1.3886,
+      "price": 655.5,
+      "change1d": -1.91,
+      "change1w": 3.49,
+      "change1m": -8.47,
+      "changeYtd": 14.81
+    },
+    {
+      "symbol": "TRIG",
+      "marketCap": 1.7636,
+      "price": 75.3,
+      "change1d": 0.86,
+      "change1w": 1.8,
+      "change1m": 8.88,
+      "changeYtd": 9.24
+    },
+    {
+      "symbol": "TRN",
+      "marketCap": 0.8859,
+      "price": 250.8,
+      "change1d": -1.63,
+      "change1w": 3.54,
+      "change1m": -7.67,
+      "changeYtd": -20.43
+    },
+    {
+      "symbol": "TRST",
+      "marketCap": 1.0668,
+      "price": 276.0,
+      "change1d": -0.25,
+      "change1w": 3.6,
+      "change1m": -7.03,
+      "changeYtd": -10.87
+    },
+    {
+      "symbol": "TRY",
+      "marketCap": 0.9901,
+      "price": 312.0,
+      "change1d": 1.28,
+      "change1w": -1.97,
+      "change1m": -10.19,
+      "changeYtd": 10.67
+    },
+    {
+      "symbol": "TSCO",
+      "marketCap": 28.9325,
+      "price": 460.7,
+      "change1d": 0.64,
+      "change1w": 2.78,
+      "change1m": 6.66,
+      "changeYtd": 9.04
+    },
+    {
+      "symbol": "TW.",
+      "marketCap": 3.0108,
+      "price": 86.68,
+      "change1d": -0.06,
+      "change1w": 2.18,
+      "change1m": -7.57,
+      "changeYtd": -14.66
+    },
+    {
+      "symbol": "UEM",
+      "marketCap": 0.4847,
+      "price": 280.0,
+      "change1d": -0.88,
+      "change1w": 2.86,
+      "change1m": 6.1,
+      "changeYtd": 16.22
+    },
+    {
+      "symbol": "UKW",
+      "marketCap": 2.3854,
+      "price": 110.5,
+      "change1d": 1.39,
+      "change1w": -1.94,
+      "change1m": 10.19,
+      "changeYtd": 17.2
+    },
+    {
+      "symbol": "ULVR",
+      "marketCap": 100.2273,
+      "price": 4628.5,
+      "change1d": -2.14,
+      "change1w": -3.93,
+      "change1m": -1.5,
+      "changeYtd": 5.72
+    },
+    {
+      "symbol": "USA",
+      "marketCap": 0.9187,
+      "price": 332.0,
+      "change1d": 0.8,
+      "change1w": 0.1,
+      "change1m": 4.72,
+      "changeYtd": 18.2
+    },
+    {
+      "symbol": "UTG",
+      "marketCap": 2.7376,
+      "price": 530.0,
+      "change1d": 1.41,
+      "change1w": 2.32,
+      "change1m": 10.26,
+      "changeYtd": -9.89
+    },
+    {
+      "symbol": "UU.",
+      "marketCap": 10.571,
+      "price": 1423.0,
+      "change1d": -1.83,
+      "change1w": -3.39,
+      "change1m": -5.02,
+      "changeYtd": -7.33
+    },
+    {
+      "symbol": "VCT",
+      "marketCap": 0.7075,
+      "price": 812.0,
+      "change1d": -0.29,
+      "change1w": -1.87,
+      "change1m": 2.31,
+      "changeYtd": 17.82
+    },
+    {
+      "symbol": "VEIL",
+      "marketCap": 0.8971,
+      "price": 726.0,
+      "change1d": -1.64,
+      "change1w": -4.0,
+      "change1m": 2.28,
+      "changeYtd": -22.31
+    },
+    {
+      "symbol": "VOD",
+      "marketCap": 27.6666,
+      "price": 120.15,
+      "change1d": -0.32,
+      "change1w": 2.77,
+      "change1m": -1.52,
+      "changeYtd": 8.41
+    },
+    {
+      "symbol": "VOF",
+      "marketCap": 0.5364,
+      "price": 441.0,
+      "change1d": -0.94,
+      "change1w": 4.74,
+      "change1m": 9.8,
+      "changeYtd": 1.39
+    },
+    {
+      "symbol": "VSVS",
+      "marketCap": 0.9784,
+      "price": 397.4,
+      "change1d": 1.39,
+      "change1w": -1.2,
+      "change1m": 9.04,
+      "changeYtd": 16.0
+    },
+    {
+      "symbol": "VTY",
+      "marketCap": 0.8785,
+      "price": 276.6,
+      "change1d": -2.3,
+      "change1w": -4.08,
+      "change1m": 5.4,
+      "changeYtd": 14.58
+    },
+    {
+      "symbol": "WEIR",
+      "marketCap": 6.9109,
+      "price": 2662.0,
+      "change1d": -2.14,
+      "change1w": -1.8,
+      "change1m": 1.06,
+      "changeYtd": -17.0
+    },
+    {
+      "symbol": "WIX",
+      "marketCap": 0.4367,
+      "price": 198.6,
+      "change1d": 1.44,
+      "change1w": 5.27,
+      "change1m": 7.87,
+      "changeYtd": 9.06
+    },
+    {
+      "symbol": "WIZZ",
+      "marketCap": 1.1174,
+      "price": 1080.0,
+      "change1d": -1.45,
+      "change1w": 1.98,
+      "change1m": -3.16,
+      "changeYtd": 8.11
+    },
+    {
+      "symbol": "WKP",
+      "marketCap": 0.7115,
+      "price": 370.0,
+      "change1d": 2.33,
+      "change1w": -4.37,
+      "change1m": 4.45,
+      "changeYtd": -16.69
+    },
+    {
+      "symbol": "WOSG",
+      "marketCap": 1.7009,
+      "price": 735.0,
+      "change1d": -1.25,
+      "change1w": -1.93,
+      "change1m": 9.51,
+      "changeYtd": -2.56
+    },
+    {
+      "symbol": "WPP",
+      "marketCap": 4.2796,
+      "price": 396.8,
+      "change1d": -1.54,
+      "change1w": -1.51,
+      "change1m": 10.9,
+      "changeYtd": 14.23
+    },
+    {
+      "symbol": "WTB",
+      "marketCap": 4.1869,
+      "price": 2505.0,
+      "change1d": -0.93,
+      "change1w": 4.15,
+      "change1m": 7.18,
+      "changeYtd": 7.47
+    },
+    {
+      "symbol": "WWH",
+      "marketCap": 1.4152,
+      "price": 391.5,
+      "change1d": -2.14,
+      "change1w": -0.61,
+      "change1m": 1.41,
+      "changeYtd": -4.95
+    },
+    {
+      "symbol": "XPP",
+      "marketCap": 0.4861,
+      "price": 1734.0,
+      "change1d": 0.62,
+      "change1w": -3.05,
+      "change1m": 5.97,
+      "changeYtd": 23.75
+    },
+    {
+      "symbol": "XPS",
+      "marketCap": 0.6706,
+      "price": 328.0,
+      "change1d": -1.22,
+      "change1w": 1.15,
+      "change1m": -10.43,
+      "changeYtd": 6.61
+    },
+    {
+      "symbol": "ZIG",
+      "marketCap": 1.0877,
+      "price": 478.0,
+      "change1d": -0.65,
+      "change1w": -3.64,
+      "change1m": -9.17,
+      "changeYtd": -2.65
+    }
+  ]
+}
