@@ -1,0 +1,2114 @@
+{
+  "asOf": "2026-08-13",
+  "classification": "FTSE Russell ICB industry level",
+  "sources": [
+    "https://www.londonstockexchange.com/indices/ftse-100/constituents/table",
+    "https://www.londonstockexchange.com/indices/ftse-250/constituents/table",
+    "https://en.wikipedia.org/wiki/FTSE_100_Index",
+    "https://en.wikipedia.org/wiki/FTSE_250_Index",
+    "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/other/icb-structure-and-definitions.xlsx",
+    "https://api.londonstockexchange.com/api/gw/lse/download/{symbol}/ftse-analytics"
+  ],
+  "constituents": [
+    {
+      "symbol": "AAF",
+      "companyName": "Airtel Africa",
+      "sector": "Telecommunications",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "AAL",
+      "companyName": "Anglo American",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ABDN",
+      "companyName": "Aberdeen Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ABF",
+      "companyName": "Associated British Foods",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ADM",
+      "companyName": "Admiral Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ALW",
+      "companyName": "Alliance Witan",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ANTO",
+      "companyName": "Antofagasta",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "AUTO",
+      "companyName": "Autotrader Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "AV.",
+      "companyName": "Aviva",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "AZN",
+      "companyName": "AstraZeneca",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BA.",
+      "companyName": "BAE Systems",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BAB",
+      "companyName": "Babcock International Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BARC",
+      "companyName": "Barclays",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BATS",
+      "companyName": "British American Tobacco",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BBOX",
+      "companyName": "Tritax Big Box REIT",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BEZ",
+      "companyName": "Beazley",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BGEO",
+      "companyName": "Lion Finance Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BLND",
+      "companyName": "British Land Co",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BNZL",
+      "companyName": "Bunzl",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BP.",
+      "companyName": "BP",
+      "sector": "Energy",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BRBY",
+      "companyName": "Burberry Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BT.A",
+      "companyName": "BT Group",
+      "sector": "Telecommunications",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "BTRW",
+      "companyName": "Barratt Redrow",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CCC",
+      "companyName": "Computacenter",
+      "sector": "Technology",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CCEP",
+      "companyName": "Coca-Cola Europacific Partners",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CCH",
+      "companyName": "Coca-Cola HBC AG",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CNA",
+      "companyName": "Centrica",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CPG",
+      "companyName": "Compass Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CRDA",
+      "companyName": "Croda International",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "CTEC",
+      "companyName": "ConvaTec Group",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "DCC",
+      "companyName": "DCC Energy",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "DGE",
+      "companyName": "Diageo",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "DPLM",
+      "companyName": "Diploma",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "EDV",
+      "companyName": "Endeavour Mining",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ENT",
+      "companyName": "Entain",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "EXPN",
+      "companyName": "Experian",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "FCIT",
+      "companyName": "F&C Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "FRES",
+      "companyName": "Fresnillo",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "GAW",
+      "companyName": "Games Workshop Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "GLEN",
+      "companyName": "Glencore",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "GSK",
+      "companyName": "GSK",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "HLMA",
+      "companyName": "Halma",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "HLN",
+      "companyName": "Haleon",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "HSBA",
+      "companyName": "HSBC Holdings",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "HSX",
+      "companyName": "Hiscox Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "HWDN",
+      "companyName": "Howden Joinery Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "IAG",
+      "companyName": "International Consolidated Airlines Group SA",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ICG",
+      "companyName": "ICG",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "IGG",
+      "companyName": "IG Group Holdings",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "IHG",
+      "companyName": "InterContinental Hotels Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "III",
+      "companyName": "3i Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "IMB",
+      "companyName": "Imperial Brands",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "IMI",
+      "companyName": "IMI",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "INF",
+      "companyName": "Informa",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "INVP",
+      "companyName": "Investec",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ITRK",
+      "companyName": "Intertek Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "JD.",
+      "companyName": "JD Sports Fashion",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "KGF",
+      "companyName": "Kingfisher",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "LAND",
+      "companyName": "Land Securities Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "LGEN",
+      "companyName": "Legal & General Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "LLOY",
+      "companyName": "Lloyds Banking Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "LMP",
+      "companyName": "Londonmetric Property",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "LSEG",
+      "companyName": "London Stock Exchange Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "MKS",
+      "companyName": "Marks & Spencer Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "MNG",
+      "companyName": "M&G",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "MRO",
+      "companyName": "Melrose Industries",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "MTLN",
+      "companyName": "Metlen Energy & Metals",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "NG.",
+      "companyName": "National Grid",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "NWG",
+      "companyName": "NatWest Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "NXT",
+      "companyName": "Next",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "PCT",
+      "companyName": "Polar Capital Technology Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "PRU",
+      "companyName": "Prudential",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "PSH",
+      "companyName": "Pershing Square Holdings Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "PSN",
+      "companyName": "Persimmon",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "PSON",
+      "companyName": "Pearson",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "REL",
+      "companyName": "RELX",
+      "sector": "Technology",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "RIO",
+      "companyName": "Rio Tinto",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "RKT",
+      "companyName": "Reckitt Benckiser Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "RR.",
+      "companyName": "Rolls-Royce Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "RTO",
+      "companyName": "Rentokil Initial",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SBRY",
+      "companyName": "Sainsbury (J)",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SDLF",
+      "companyName": "Standard Life",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SDR",
+      "companyName": "Schroders",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SGE",
+      "companyName": "Sage Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SGRO",
+      "companyName": "Segro",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SHEL",
+      "companyName": "Shell",
+      "sector": "Energy",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SMIN",
+      "companyName": "Smiths Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SMT",
+      "companyName": "Scottish Mortgage Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SN.",
+      "companyName": "Smith & Nephew",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SPX",
+      "companyName": "Spirax Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SSE",
+      "companyName": "SSE",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "STAN",
+      "companyName": "Standard Chartered",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "STJ",
+      "companyName": "St James's Place",
+      "sector": "Financials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "SVT",
+      "companyName": "Severn Trent",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "TSCO",
+      "companyName": "Tesco",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "ULVR",
+      "companyName": "Unilever",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "UU.",
+      "companyName": "United Utilities Group",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "VOD",
+      "companyName": "Vodafone Group",
+      "sector": "Telecommunications",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "WEIR",
+      "companyName": "Weir Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "WTB",
+      "companyName": "Whitbread",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 100"
+    },
+    {
+      "symbol": "3IN",
+      "companyName": "3i Infrastructure",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AAS",
+      "companyName": "Aberdeen Asia Focus",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AEP",
+      "companyName": "AEP Plantations",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AGT",
+      "companyName": "AVI Global Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AIE",
+      "companyName": "Ashoka India Equity Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AJB",
+      "companyName": "AJ Bell",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ALFA",
+      "companyName": "Alfa Financial Software Holdings",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AML",
+      "companyName": "Aston Martin Lagonda Global Holdings",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AO.",
+      "companyName": "AO World",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "APN",
+      "companyName": "Applied Nutrition",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ASHM",
+      "companyName": "Ashmore Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ASL",
+      "companyName": "Aberforth Smaller Companies Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ATG",
+      "companyName": "Auction Technology Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ATR",
+      "companyName": "Schroder Asian Total Return Investment Company",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ATT",
+      "companyName": "Allianz Technology Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ATYM",
+      "companyName": "Atalaya Mining",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "AVON",
+      "companyName": "Avon Technologies",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BAG",
+      "companyName": "Barr (AG)",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BBY",
+      "companyName": "Balfour Beatty",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BCG",
+      "companyName": "Baltic Classifieds Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BGFD",
+      "companyName": "Baillie Gifford Japan Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BHMG",
+      "companyName": "BH Macro Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BKG",
+      "companyName": "Berkeley Group Holdings",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BME",
+      "companyName": "B&M European Value Retail",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BMY",
+      "companyName": "Bloomsbury Publishing",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BNKR",
+      "companyName": "Bankers Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BOWL",
+      "companyName": "Hollywood Bowl Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BOY",
+      "companyName": "Bodycote",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BPCP",
+      "companyName": "BioPharma Credit",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BPT",
+      "companyName": "Bridgepoint Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BREE",
+      "companyName": "Breedon Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BRGE",
+      "companyName": "BlackRock Greater Europe Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BRSC",
+      "companyName": "BlackRock Smaller Companies Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BRWM",
+      "companyName": "BlackRock World Mining Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BUT",
+      "companyName": "Brunner Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BWY",
+      "companyName": "Bellway",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BYG",
+      "companyName": "Big Yellow Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "BYIT",
+      "companyName": "Bytes Technology Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CBG",
+      "companyName": "Close Brothers Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CGT",
+      "companyName": "Capital Gearing Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CHG",
+      "companyName": "Chemring Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CKN",
+      "companyName": "Clarkson",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CLDN",
+      "companyName": "Caledonia Investments",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CMCX",
+      "companyName": "CMC Markets",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "COA",
+      "companyName": "Coats Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CORD",
+      "companyName": "Cordiant Digital Infrastructure Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "COST",
+      "companyName": "Costain Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CSN",
+      "companyName": "Chesnara",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CTY",
+      "companyName": "City of London Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CURY",
+      "companyName": "Currys",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CVSG",
+      "companyName": "CVS Group",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CWK",
+      "companyName": "Cranswick",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "CWR",
+      "companyName": "Ceres Power Holdings",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DATA",
+      "companyName": "GlobalData",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DLN",
+      "companyName": "Derwent London",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DNLM",
+      "companyName": "Dunelm Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DOCS",
+      "companyName": "Dr. Martens",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DOM",
+      "companyName": "Domino's Pizza Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DRX",
+      "companyName": "Drax Group",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "DSCV",
+      "companyName": "Discoverie Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "EDIN",
+      "companyName": "Edinburgh Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ELM",
+      "companyName": "Elementis",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "EMG",
+      "companyName": "Man Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ENOG",
+      "companyName": "Energean",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ESCT",
+      "companyName": "The European Smaller Companies Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "EWG",
+      "companyName": "W.A.G Payment Solutions",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "EWI",
+      "companyName": "Edinburgh Worldwide Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "EZJ",
+      "companyName": "easyJet",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FAN",
+      "companyName": "Volution Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FCH",
+      "companyName": "Funding Circle Holdings",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FCSS",
+      "companyName": "Fidelity China Special Situations",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FEML",
+      "companyName": "Fidelity Emerging Markets Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FEV",
+      "companyName": "Fidelity European Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FGEN",
+      "companyName": "Foresight Environmental Infrastructure Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FGP",
+      "companyName": "FirstGroup",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FGT",
+      "companyName": "Finsbury Growth & Income Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FOUR",
+      "companyName": "4imprint Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FRAS",
+      "companyName": "Frasers Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FSG",
+      "companyName": "Foresight Group Holdings Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "FSV",
+      "companyName": "Fidelity Special Values",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GAMA",
+      "companyName": "Gamma Communications",
+      "sector": "Telecommunications",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GBG",
+      "companyName": "GB Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GCP",
+      "companyName": "GCP Infrastructure Investments Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GDWN",
+      "companyName": "Goodwin",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GEN",
+      "companyName": "Genuit Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GFRD",
+      "companyName": "Galliford Try Holdings",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GFTU",
+      "companyName": "Grafton Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GNC",
+      "companyName": "Greencore Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GNS",
+      "companyName": "Genus",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GPE",
+      "companyName": "Great Portland Estates",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GRG",
+      "companyName": "Greggs",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GRI",
+      "companyName": "Grainger",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GROW",
+      "companyName": "Molten Ventures",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "GSCT",
+      "companyName": "Global Smaller Companies Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HANA",
+      "companyName": "Hansa Investment Company Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HAS",
+      "companyName": "Hays",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HBR",
+      "companyName": "Harbour Energy",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HFD",
+      "companyName": "Halfords Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HFEL",
+      "companyName": "Henderson Far East Income Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HFG",
+      "companyName": "Hilton Food Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HGT",
+      "companyName": "HgCapital Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HICL",
+      "companyName": "HICL Infrastructure",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HIK",
+      "companyName": "Hikma Pharmaceuticals",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HILS",
+      "companyName": "Hill & Smith Holdings",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HMSO",
+      "companyName": "Hammerson",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HOC",
+      "companyName": "Hochschild Mining",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HRI",
+      "companyName": "Herald Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HSL",
+      "companyName": "Henderson Smaller Companies Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HTG",
+      "companyName": "Hunting",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HTWS",
+      "companyName": "Helios Towers",
+      "sector": "Telecommunications",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HVPE",
+      "companyName": "Harbourvest Global Private Equity Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "HWG",
+      "companyName": "Harworth Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "IAD",
+      "companyName": "Invesco Asia Dragon Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ICGT",
+      "companyName": "ICG Enterprise Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "IHP",
+      "companyName": "IntegraFin Holdings",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "INCH",
+      "companyName": "Inchcape",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "INPP",
+      "companyName": "International Public Partnership Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "IPO",
+      "companyName": "IP Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ITH",
+      "companyName": "Ithaca Energy",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ITV",
+      "companyName": "ITV",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "IWG",
+      "companyName": "International Workplace Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JAM",
+      "companyName": "JPMorgan American Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JCH",
+      "companyName": "JPMorgan Claverhouse Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JDW",
+      "companyName": "Wetherspoon (JD)",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JEDT",
+      "companyName": "JPMorgan European Discovery Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JEGI",
+      "companyName": "JPMorgan European Growth & Income",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JEMI",
+      "companyName": "JPMorgan Emerging Markets Dividend Income",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JFJ",
+      "companyName": "JPMorgan Japanese Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JGGI",
+      "companyName": "JPMorgan Global Growth & Income",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JMAT",
+      "companyName": "Johnson Matthey",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JMGI",
+      "companyName": "JPMorgan Emerging Markets Growth & Income",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JSG",
+      "companyName": "Johnson Service Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JTC",
+      "companyName": "JTC",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "JUP",
+      "companyName": "Jupiter Fund Management",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "KIE",
+      "companyName": "Kier Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "KLR",
+      "companyName": "Keller Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "KNOS",
+      "companyName": "Kainos Group Ltd",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "LRE",
+      "companyName": "Lancashire Holdings Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "LWDB",
+      "companyName": "Law Debenture Corp",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MAB",
+      "companyName": "Mitchells & Butlers",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MEGP",
+      "companyName": "Me Group International",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MGAM",
+      "companyName": "Morgan Advanced Materials",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MGNS",
+      "companyName": "Morgan Sindall",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MNDI",
+      "companyName": "Mondi",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MNKS",
+      "companyName": "Monks Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MNTN",
+      "companyName": "Schiehallion Fund Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MONY",
+      "companyName": "Mony Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MOON",
+      "companyName": "Moonpig Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MRC",
+      "companyName": "Mercantile Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MRCH",
+      "companyName": "Merchants Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MTO",
+      "companyName": "Mitie Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MTRO",
+      "companyName": "Metro Bank Holdings",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MUT",
+      "companyName": "Murray Income Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "MYI",
+      "companyName": "Murray International Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "N91",
+      "companyName": "Ninety One",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "NAS",
+      "companyName": "North Atlantic Smaller Companies Inv Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "NBPE",
+      "companyName": "Neuberger Private Equity Partners Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "NCC",
+      "companyName": "NCC Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "OCDO",
+      "companyName": "Ocado Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "OCI",
+      "companyName": "Oakley Capital Investments Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ONT",
+      "companyName": "Oxford Nanopore Technologies",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "OSB",
+      "companyName": "OSB Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "OXB",
+      "companyName": "Oxford BioMedica",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "OXIG",
+      "companyName": "Oxford Instruments",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PAF",
+      "companyName": "Pan African Resources",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PAG",
+      "companyName": "Paragon Banking Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PAGE",
+      "companyName": "Michael Page",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PCGH",
+      "companyName": "Polar Capital Global Healthcare Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PETS",
+      "companyName": "Pets at Home Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PEYS",
+      "companyName": "Partners Group Private Equity Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PFD",
+      "companyName": "Premier Foods",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PHI",
+      "companyName": "Pacific Horizon Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PHP",
+      "companyName": "Primary Health Properties",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PIN",
+      "companyName": "Pantheon International",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PINT",
+      "companyName": "Pantheon Infrastructure",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PLUS",
+      "companyName": "Plus500 Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PNL",
+      "companyName": "Personal Assets Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PNN",
+      "companyName": "Pennon Group",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "POLN",
+      "companyName": "Pollen Street Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PPET",
+      "companyName": "Patria Private Equity Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PPH",
+      "companyName": "PPHE Hotel Group Ltd",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PRN",
+      "companyName": "Princes Group",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "PTEC",
+      "companyName": "Playtech",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "QLT",
+      "companyName": "Quilter",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "QQ.",
+      "companyName": "QinetiQ Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RAT",
+      "companyName": "Rathbone Brothers",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RCP",
+      "companyName": "RIT Capital Partners",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RHIM",
+      "companyName": "RHI Magnesita NV",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RICA",
+      "companyName": "Ruffer Investment Company Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RMV",
+      "companyName": "Rightmove",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RNK",
+      "companyName": "Rank Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ROR",
+      "companyName": "Rotork",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ROSE",
+      "companyName": "Rosebank Industries",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RPI",
+      "companyName": "Raspberry Pi Holdings",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RS1",
+      "companyName": "RS Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RSW",
+      "companyName": "Renishaw",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "RTW",
+      "companyName": "RTW Biotech Opportunities Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SAFE",
+      "companyName": "Safestore Holdings",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SAGA",
+      "companyName": "Saga",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SAIN",
+      "companyName": "Scottish American Investment Co",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SCT",
+      "companyName": "Softcat",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SDP",
+      "companyName": "Schroder AsiaPacific Fund",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SEIT",
+      "companyName": "SDCL Energy Efficiency Income Trust",
+      "sector": "Energy",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SEQI",
+      "companyName": "Sequoia Economic Infrastructure Income Fund Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SHAW",
+      "companyName": "Shawbrook Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SHC",
+      "companyName": "Shaftesbury Capital",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SMWH",
+      "companyName": "WH Smith",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SNR",
+      "companyName": "Senior",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SOI",
+      "companyName": "Schroder Oriental Income Fund Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SPI",
+      "companyName": "Spire Healthcare Group",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SRE",
+      "companyName": "Sirius Real Estate Ltd",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SRP",
+      "companyName": "Serco Group",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SSIT",
+      "companyName": "Seraphim Space Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SSPG",
+      "companyName": "SSP Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SUPR",
+      "companyName": "Supermarket Income Reit",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SVS",
+      "companyName": "Savills",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "SYNC",
+      "companyName": "Syncona Ltd",
+      "sector": "Health Care",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TATE",
+      "companyName": "Tate & Lyle",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TBCG",
+      "companyName": "TBC Bank Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TCAP",
+      "companyName": "TP ICAP",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TEM",
+      "companyName": "Templeton Emerging Markets Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TEP",
+      "companyName": "Telecom Plus",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TFIF",
+      "companyName": "TwentyFour Income Fund Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "THG",
+      "companyName": "THG",
+      "sector": "Consumer Staples",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "THRL",
+      "companyName": "Target Healthcare REIT Ltd",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TMPL",
+      "companyName": "Temple Bar Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TPK",
+      "companyName": "Travis Perkins",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TRIG",
+      "companyName": "The Renewables Infrastructure Group Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TRN",
+      "companyName": "Trainline",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TRST",
+      "companyName": "Trustpilot Group",
+      "sector": "Technology",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TRY",
+      "companyName": "TR Property Investment Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "TW.",
+      "companyName": "Taylor Wimpey",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "UEM",
+      "companyName": "Utilico Emerging Markets Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "UKW",
+      "companyName": "Greencoat UK Wind",
+      "sector": "Utilities",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "USA",
+      "companyName": "Baillie Gifford US Growth Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "UTG",
+      "companyName": "UNITE Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "VCT",
+      "companyName": "Victrex",
+      "sector": "Basic Materials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "VEIL",
+      "companyName": "Vietnam Enterprise Investments Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "VOF",
+      "companyName": "VinaCapital Vietnam Opportunity Fund Ltd",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "VSVS",
+      "companyName": "Vesuvius",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "VTY",
+      "companyName": "Vistry Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WIX",
+      "companyName": "Wickes Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WIZZ",
+      "companyName": "Wizz Air Holding",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WKP",
+      "companyName": "Workspace Group",
+      "sector": "Real Estate",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WOSG",
+      "companyName": "Watches Of Switzerland Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WPP",
+      "companyName": "WPP Group",
+      "sector": "Consumer Discretionary",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "WWH",
+      "companyName": "Worldwide Healthcare Trust",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "XPP",
+      "companyName": "XP Power Ltd",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "XPS",
+      "companyName": "XPS Pensions Group",
+      "sector": "Financials",
+      "indexMembership": "FTSE 250"
+    },
+    {
+      "symbol": "ZIG",
+      "companyName": "Zigup",
+      "sector": "Industrials",
+      "indexMembership": "FTSE 250"
+    }
+  ]
+}
